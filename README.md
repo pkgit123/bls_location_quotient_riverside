@@ -1,4 +1,8 @@
-# Riverside BLS OES Location Quotient Scrapers
+# Riverside BLS OES Location Quotient Analysis
+
+[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/pkgit123/bls_location_quotient_riverside)
 
 This project contains Selenium-based web scrapers for extracting Occupational Employment and Wage Statistics (OES) data for the Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area (MSA).
 
@@ -132,6 +136,18 @@ For detailed information about this project, see the documentation in the `docs/
 - **[Location Quotient Changes Analysis](docs/lq_changes_analysis.md)** - Detailed analysis of occupational concentration changes between 2019-2024
 - **[Analysis Summary](docs/ANALYSIS_SUMMARY.md)** - Project overview and key findings
 
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+
 ## License
 
-This project is for educational and research purposes. Please respect the BLS website's terms of service when using these scrapers. 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+This project is for educational and research purposes. Please respect the BLS website's terms of service when using these scrapers.
+
+## Acknowledgments
+
+- [Bureau of Labor Statistics (BLS)](https://www.bls.gov/) for providing the OES data
+- [Selenium](https://selenium-python.readthedocs.io/) for web automation capabilities
+- [Pandas](https://pandas.pydata.org/) for data manipulation and analysis 
