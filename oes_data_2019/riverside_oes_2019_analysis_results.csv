@@ -1,0 +1,8 @@
+Metric,Value
+Total Occupations,655.0
+High Concentration (LQ>2),32.0
+Moderate Concentration (1<LQ≤2),170.0
+Average Concentration (0.5<LQ≤1),266.0
+Low Concentration (LQ≤0.5),132.0
+Mean LQ,0.9546499999999999
+Median LQ,0.83

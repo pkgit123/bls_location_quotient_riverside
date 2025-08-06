@@ -1,0 +1,656 @@
+Rank,Occupation,Location_Quotient,Category
+1,Tapers,5.78,Very High Concentration
+2,Marriage and Family Therapists,5.7,Very High Concentration
+3,Solar Photovoltaic Installers,4.35,Very High Concentration
+4,First-Line Supervisors of Gambling Services Workers,4.18,Very High Concentration
+5,Drywall and Ceiling Tile Installers,4.0,Very High Concentration
+6,"Material Moving Workers, All Other",3.86,Very High Concentration
+7,Gambling Cage Workers,3.85,Very High Concentration
+8,Plasterers and Stucco Masons,3.81,Very High Concentration
+9,Gambling Change Persons and Booth Cashiers,3.8,Very High Concentration
+10,Cooling and Freezing Equipment Operators and Tenders,3.72,Very High Concentration
+11,"Floor Layers, Except Carpet, Wood, and Hard Tiles",3.2,Very High Concentration
+12,Machine Feeders and Offbearers,2.98,Very High Concentration
+13,Automotive Glass Installers and Repairers,2.84,Very High Concentration
+14,"Educational Instruction and Library Workers, All Other",2.75,Very High Concentration
+15,"Cooks, Fast Food",2.74,Very High Concentration
+16,"Social Workers, All Other",2.61,Very High Concentration
+17,Recreational Vehicle Service Technicians,2.57,Very High Concentration
+18,Gambling Dealers,2.54,Very High Concentration
+19,Forest Fire Inspectors and Prevention Specialists,2.53,Very High Concentration
+20,"Substitute Teachers, Short-Term",2.5,Very High Concentration
+21,Industrial Truck and Tractor Operators,2.47,Very High Concentration
+22,Pharmacy Aides,2.47,Very High Concentration
+23,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",2.41,Very High Concentration
+24,"Plant and System Operators, All Other",2.32,Very High Concentration
+25,Stockers and Order Fillers,2.23,Very High Concentration
+26,"Food Preparation and Serving Related Workers, All Other",2.22,Very High Concentration
+27,"Office and Administrative Support Workers, All Other",2.21,Very High Concentration
+28,Cement Masons and Concrete Finishers,2.2,Very High Concentration
+29,Environmental Engineering Technologists and Technicians,2.12,Very High Concentration
+30,"School Bus Monitors and Protective Service Workers, All Other",2.04,Very High Concentration
+31,"Packers and Packagers, Hand",2.01,Very High Concentration
+32,Carpenters,2.01,Very High Concentration
+33,Psychiatric Technicians,1.99,High Concentration
+34,Order Clerks,1.98,High Concentration
+35,"Painting, Coating, and Decorating Workers",1.96,High Concentration
+36,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",1.91,High Concentration
+37,"Sales and Related Workers, All Other",1.91,High Concentration
+38,"Electrical and Electronics Installers and Repairers, Transportation Equipment",1.88,High Concentration
+39,Structural Iron and Steel Workers,1.84,High Concentration
+40,Agricultural Inspectors,1.84,High Concentration
+41,Fence Erectors,1.82,High Concentration
+42,Forest and Conservation Technicians,1.81,High Concentration
+43,"Eligibility Interviewers, Government Programs",1.8,High Concentration
+44,"Laborers and Freight, Stock, and Material Movers, Hand",1.76,High Concentration
+45,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",1.76,High Concentration
+46,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",1.74,High Concentration
+47,"Directors, Religious Activities and Education",1.7,High Concentration
+48,Home Health and Personal Care Aides,1.69,High Concentration
+49,Counter and Rental Clerks,1.67,High Concentration
+50,Dining Room and Cafeteria Attendants and Bartender Helpers,1.66,High Concentration
+51,Demonstrators and Product Promoters,1.66,High Concentration
+52,Dental Assistants,1.64,High Concentration
+53,Urban and Regional Planners,1.63,High Concentration
+54,"Grounds Maintenance Workers, All Other",1.62,High Concentration
+55,Motorcycle Mechanics,1.62,High Concentration
+56,"Transportation, Storage, and Distribution Managers",1.6,High Concentration
+57,"Community and Social Service Specialists, All Other",1.59,High Concentration
+58,"Molders, Shapers, and Casters, Except Metal and Plastic",1.59,High Concentration
+59,Transportation and Material Moving Occupations,1.58,High Concentration
+60,"Painters, Construction and Maintenance",1.57,High Concentration
+61,"Production Workers, All Other",1.57,High Concentration
+62,Mechanical Door Repairers,1.57,High Concentration
+63,Manicurists and Pedicurists,1.56,High Concentration
+64,Power Distributors and Dispatchers,1.56,High Concentration
+65,Helpers--Electricians,1.56,High Concentration
+66,Security Guards,1.54,High Concentration
+67,Food Service Managers,1.54,High Concentration
+68,"Elementary School Teachers, Except Special Education",1.53,High Concentration
+69,"Farming, Fishing, and Forestry Occupations",1.52,High Concentration
+70,"Locker Room, Coatroom, and Dressing Room Attendants",1.51,High Concentration
+71,"Clinical, Counseling, and School Psychologists",1.51,High Concentration
+72,Landscaping and Groundskeeping Workers,1.5,Above Average
+73,"Cooks, Short Order",1.48,Above Average
+74,Forensic Science Technicians,1.47,Above Average
+75,Animal Control Workers,1.47,Above Average
+76,Agricultural Equipment Operators,1.47,Above Average
+77,"Shipping, Receiving, and Inventory Clerks",1.47,Above Average
+78,Cleaners of Vehicles and Equipment,1.45,Above Average
+79,Fiberglass Laminators and Fabricators,1.45,Above Average
+80,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",1.45,Above Average
+81,Tire Repairers and Changers,1.45,Above Average
+82,"Graders and Sorters, Agricultural Products",1.44,Above Average
+83,Rehabilitation Counselors,1.44,Above Average
+84,Dietetic Technicians,1.42,Above Average
+85,"Maintenance Workers, Machinery",1.42,Above Average
+86,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",1.41,Above Average
+87,Home Appliance Repairers,1.4,Above Average
+88,"Miscellaneous First-Line Supervisors, Protective Service Workers",1.39,Above Average
+89,Sales Managers,1.39,Above Average
+90,Automotive Service Technicians and Mechanics,1.38,Above Average
+91,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",1.38,Above Average
+92,"Helpers, Construction Trades, All Other",1.37,Above Average
+93,"Precision Instrument and Equipment Repairers, All Other",1.36,Above Average
+94,Dishwashers,1.35,Above Average
+95,Light Truck Drivers,1.35,Above Average
+96,"Media and Communication Workers, All Other",1.34,Above Average
+97,Landscape Architects,1.34,Above Average
+98,"Telecommunications Equipment Installers and Repairers, Except Line Installers",1.34,Above Average
+99,"Cooks, All Other",1.34,Above Average
+100,Wind Turbine Service Technicians,1.33,Above Average
+101,Parking Enforcement Workers,1.32,Above Average
+102,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",1.31,Above Average
+103,Cost Estimators,1.31,Above Average
+104,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",1.31,Above Average
+105,Heavy and Tractor-Trailer Truck Drivers,1.3,Above Average
+106,Bus and Truck Mechanics and Diesel Engine Specialists,1.3,Above Average
+107,Massage Therapists,1.3,Above Average
+108,"Healthcare Support Workers, All Other",1.3,Above Average
+109,Respiratory Therapists,1.3,Above Average
+110,"Special Education Teachers, Kindergarten and Elementary School",1.3,Above Average
+111,Medical Secretaries and Administrative Assistants,1.29,Above Average
+112,Cashiers,1.29,Above Average
+113,Healthcare Support Occupations,1.29,Above Average
+114,"Teaching Assistants, Except Postsecondary",1.28,Above Average
+115,Medical Assistants,1.28,Above Average
+116,Roofers,1.28,Above Average
+117,Motorboat Mechanics and Service Technicians,1.28,Above Average
+118,Construction and Extraction Occupations,1.27,Above Average
+119,First-Line Supervisors of Correctional Officers,1.27,Above Average
+120,"Installation, Maintenance, and Repair Workers, All Other",1.27,Above Average
+121,"Dentists, General",1.27,Above Average
+122,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1.27,Above Average
+123,"Office Machine Operators, Except Computer",1.26,Above Average
+124,Payroll and Timekeeping Clerks,1.26,Above Average
+125,Carpet Installers,1.26,Above Average
+126,Pipelayers,1.26,Above Average
+127,"Coin, Vending, and Amusement Machine Servicers and Repairers",1.25,Above Average
+128,Skincare Specialists,1.24,Above Average
+129,"Production, Planning, and Expediting Clerks",1.24,Above Average
+130,Real Estate Brokers,1.23,Above Average
+131,"Drafters, All Other",1.23,Above Average
+132,Probation Officers and Correctional Treatment Specialists,1.22,Above Average
+133,Butchers and Meat Cutters,1.21,Above Average
+134,Orthotists and Prosthetists,1.21,Above Average
+135,Pest Control Workers,1.21,Above Average
+136,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",1.21,Above Average
+137,Correctional Officers and Jailers,1.19,Above Average
+138,Couriers and Messengers,1.18,Above Average
+139,Outdoor Power Equipment and Other Small Engine Mechanics,1.18,Above Average
+140,"Information and Record Clerks, All Other",1.18,Above Average
+141,Packaging and Filling Machine Operators and Tenders,1.18,Above Average
+142,Helpers--Carpenters,1.17,Above Average
+143,Psychiatrists,1.17,Above Average
+144,Fast Food and Counter Workers,1.16,Above Average
+145,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",1.16,Above Average
+146,Dietitians and Nutritionists,1.16,Above Average
+147,"Interviewers, Except Eligibility and Loan",1.16,Above Average
+148,Emergency Medical Technicians and Paramedics,1.16,Above Average
+149,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",1.16,Above Average
+150,Driver/Sales Workers,1.15,Above Average
+151,Community and Social Service Occupations,1.14,Above Average
+152,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1.13,Above Average
+153,Educational Instruction and Library Occupations,1.13,Above Average
+154,Parts Salespersons,1.13,Above Average
+155,Water and Wastewater Treatment Plant and System Operators,1.13,Above Average
+156,Protective Service Occupations,1.12,Above Average
+157,"Legal Support Workers, All Other",1.12,Above Average
+158,Food Preparation and Serving Related Occupations,1.11,Above Average
+159,Word Processors and Typists,1.11,Above Average
+160,Telephone Operators,1.1,Above Average
+161,Cabinetmakers and Bench Carpenters,1.1,Above Average
+162,"Secondary School Teachers, Except Special and Career/Technical Education",1.1,Above Average
+163,Construction and Building Inspectors,1.09,Above Average
+164,Medical Equipment Repairers,1.09,Above Average
+165,Childcare Workers,1.07,Above Average
+166,"Mobile Heavy Equipment Mechanics, Except Engines",1.07,Above Average
+167,Construction Laborers,1.07,Above Average
+168,Social and Human Service Assistants,1.06,Above Average
+169,Baggage Porters and Bellhops,1.06,Above Average
+170,Phlebotomists,1.06,Above Average
+171,Security and Fire Alarm Systems Installers,1.06,Above Average
+172,"Environmental Science and Protection Technicians, Including Health",1.06,Above Average
+173,Food Preparation Workers,1.06,Above Average
+174,"Pressers, Textile, Garment, and Related Materials",1.06,Above Average
+175,"Tailors, Dressmakers, and Custom Sewers",1.06,Above Average
+176,"Paving, Surfacing, and Tamping Equipment Operators",1.06,Above Average
+177,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",1.05,Above Average
+178,"Meter Readers, Utilities",1.05,Above Average
+179,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1.05,Above Average
+180,Veterinary Assistants and Laboratory Animal Caretakers,1.05,Above Average
+181,Electricians,1.04,Above Average
+182,"Human Resources Assistants, Except Payroll and Timekeeping",1.04,Above Average
+183,"Property, Real Estate, and Community Association Managers",1.04,Above Average
+184,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",1.04,Above Average
+185,"Dispatchers, Except Police, Fire, and Ambulance",1.04,Above Average
+186,Licensed Practical and Licensed Vocational Nurses,1.04,Above Average
+187,File Clerks,1.03,Above Average
+188,Instructional Coordinators,1.03,Above Average
+189,"Opticians, Dispensing",1.03,Above Average
+190,"Switchboard Operators, Including Answering Service",1.03,Above Average
+191,Sales and Related Occupations,1.03,Above Average
+192,Orderlies,1.02,Above Average
+193,"Anthropology and Archeology Teachers, Postsecondary",1.02,Above Average
+194,Personal Care and Service Occupations,1.02,Above Average
+195,First-Line Supervisors of Construction Trades and Extraction Workers,1.02,Above Average
+196,Optometrists,1.02,Above Average
+197,Soil and Plant Scientists,1.01,Above Average
+198,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",1.01,Above Average
+199,"Helpers--Installation, Maintenance, and Repair Workers",1.01,Above Average
+200,Agricultural and Food Science Technicians,1.01,Above Average
+201,"Recreation and Fitness Studies Teachers, Postsecondary",1.01,Above Average
+202,Merchandise Displayers and Window Trimmers,1.01,Above Average
+203,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",1.0,Average
+204,Building and Grounds Cleaning and Maintenance Occupations,1.0,Average
+205,"Plumbers, Pipefitters, and Steamfitters",1.0,Average
+206,Cargo and Freight Agents,1.0,Average
+207,Credit Counselors,1.0,Average
+208,Medical Equipment Preparers,1.0,Average
+209,All Occupations,1.0,Average
+210,Library Technicians,1.0,Average
+211,"Life, Physical, and Social Science Technicians, All Other",1.0,Average
+212,Upholsterers,1.0,Average
+213,"Cooks, Restaurant",0.99,Average
+214,"Motor Vehicle Operators, All Other",0.99,Average
+215,"Grinding and Polishing Workers, Hand",0.99,Average
+216,Retail Salespersons,0.99,Average
+217,Recreation Workers,0.99,Average
+218,Physical Therapist Aides,0.99,Average
+219,"Biological Scientists, All Other",0.99,Average
+220,"Installation, Maintenance, and Repair Occupations",0.99,Average
+221,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",0.98,Average
+222,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",0.98,Average
+223,First-Line Supervisors of Retail Sales Workers,0.98,Average
+224,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",0.97,Average
+225,Computer Numerically Controlled Tool Programmers,0.97,Average
+226,Brickmasons and Blockmasons,0.97,Average
+227,"Pourers and Casters, Metal",0.97,Average
+228,Podiatrists,0.97,Average
+229,"Designers, All Other",0.97,Average
+230,Tax Preparers,0.96,Average
+231,"Mixing and Blending Machine Setters, Operators, and Tenders",0.96,Average
+232,Physician Assistants,0.96,Average
+233,Architectural and Civil Drafters,0.96,Average
+234,"Physicians, All Other; and Ophthalmologists, Except Pediatric",0.96,Average
+235,Amusement and Recreation Attendants,0.96,Average
+236,Exercise Trainers and Group Fitness Instructors,0.96,Average
+237,Continuous Mining Machine Operators,0.96,Average
+238,Court Reporters and Simultaneous Captioners,0.95,Average
+239,Food Scientists and Technologists,0.95,Average
+240,"Surgeons, Except Ophthalmologists",0.95,Average
+241,Sheet Metal Workers,0.95,Average
+242,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",0.95,Average
+243,Gambling and Sports Book Writers and Runners,0.95,Average
+244,First-Line Supervisors of Office and Administrative Support Workers,0.95,Average
+245,Operating Engineers and Other Construction Equipment Operators,0.95,Average
+246,Registered Nurses,0.95,Average
+247,Construction Managers,0.94,Average
+248,Judicial Law Clerks,0.94,Average
+249,Ophthalmic Laboratory Technicians,0.94,Average
+250,"Tutors and Teachers and Instructors, All Other",0.94,Average
+251,First-Line Supervisors of Food Preparation and Serving Workers,0.93,Average
+252,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",0.93,Average
+253,Pharmacists,0.92,Average
+254,"Project Management Specialists and Business Operations Specialists, All Other",0.91,Average
+255,"Metal Workers and Plastic Workers, All Other",0.91,Average
+256,Postal Service Mail Carriers,0.9,Average
+257,Reservation and Transportation Ticket Agents and Travel Clerks,0.9,Average
+258,Office and Administrative Support Occupations,0.9,Average
+259,Pharmacy Technicians,0.9,Average
+260,Healthcare Practitioners and Technical Occupations,0.9,Average
+261,Telecommunications Line Installers and Repairers,0.9,Average
+262,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",0.9,Average
+263,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.89,Average
+264,"Life Scientists, All Other",0.89,Average
+265,Structural Metal Fabricators and Fitters,0.89,Average
+266,Maids and Housekeeping Cleaners,0.89,Average
+267,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.89,Average
+268,"Environmental Scientists and Specialists, Including Health",0.89,Average
+269,Cardiovascular Technologists and Technicians,0.89,Average
+270,"Office Clerks, General",0.89,Average
+271,"Control and Valve Installers and Repairers, Except Mechanical Door",0.89,Average
+272,Insurance Claims and Policy Processing Clerks,0.88,Average
+273,Metal-Refining Furnace Operators and Tenders,0.88,Average
+274,Clergy,0.87,Average
+275,Firefighters,0.87,Average
+276,"Bookkeeping, Accounting, and Auditing Clerks",0.87,Average
+277,Power Plant Operators,0.87,Average
+278,Civil Engineering Technologists and Technicians,0.87,Average
+279,Detectives and Criminal Investigators,0.87,Average
+280,Waiters and Waitresses,0.87,Average
+281,Animal Caretakers,0.87,Average
+282,Glaziers,0.86,Average
+283,"Court, Municipal, and License Clerks",0.86,Average
+284,Food Cooking Machine Operators and Tenders,0.86,Average
+285,"Maintenance and Repair Workers, General",0.86,Average
+286,"Textile, Apparel, and Furnishings Workers, All Other",0.86,Average
+287,Costume Attendants,0.86,Average
+288,Recreational Therapists,0.85,Average
+289,"Rail Yard Engineers, Dinkey Operators, and Hostlers",0.85,Average
+290,Electrical Power-Line Installers and Repairers,0.85,Average
+291,Cartographers and Photogrammetrists,0.85,Average
+292,"Educational, Guidance, and Career Counselors and Advisors",0.85,Average
+293,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",0.85,Average
+294,Healthcare Social Workers,0.85,Average
+295,Photographers,0.85,Average
+296,Lodging Managers,0.85,Average
+297,Civil Engineers,0.84,Average
+298,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",0.84,Average
+299,Electrical and Electronic Engineering Technologists and Technicians,0.83,Average
+300,Procurement Clerks,0.83,Average
+301,"Psychologists, All Other",0.83,Average
+302,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",0.83,Average
+303,Health Education Specialists,0.83,Average
+304,Public Safety Telecommunicators,0.83,Average
+305,"Sawing Machine Setters, Operators, and Tenders, Wood",0.83,Average
+306,"Education Administrators, Kindergarten through Secondary",0.82,Average
+307,Compliance Officers,0.82,Average
+308,"First-Line Supervisors of Mechanics, Installers, and Repairers",0.82,Average
+309,Production Occupations,0.82,Average
+310,Medical and Health Services Managers,0.82,Average
+311,Diagnostic Medical Sonographers,0.82,Average
+312,Industrial Production Managers,0.81,Average
+313,Helpers--Production Workers,0.81,Average
+314,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",0.81,Average
+315,Automotive Body and Related Repairers,0.81,Average
+316,Billing and Posting Clerks,0.81,Average
+317,"Welders, Cutters, Solderers, and Brazers",0.81,Average
+318,Police and Sheriff's Patrol Officers,0.81,Average
+319,Training and Development Managers,0.81,Average
+320,Surgical Technologists,0.81,Average
+321,"Textile Cutting Machine Setters, Operators, and Tenders",0.81,Average
+322,Machinists,0.81,Average
+323,Data Entry Keyers,0.81,Average
+324,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0.81,Average
+325,Miscellaneous Assemblers and Fabricators,0.8,Average
+326,Interpreters and Translators,0.8,Average
+327,"Religious Workers, All Other",0.8,Average
+328,Bartenders,0.8,Average
+329,Administrative Services and Facilities Managers,0.8,Average
+330,Dental Hygienists,0.8,Average
+331,"Hotel, Motel, and Resort Desk Clerks",0.8,Average
+332,Management Occupations,0.79,Average
+333,Adhesive Bonding Machine Operators and Tenders,0.79,Average
+334,"Library Assistants, Clerical",0.79,Average
+335,Legal Secretaries and Administrative Assistants,0.79,Average
+336,Septic Tank Servicers and Sewer Pipe Cleaners,0.78,Average
+337,"Inspectors, Testers, Sorters, Samplers, and Weighers",0.78,Average
+338,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",0.78,Average
+339,"Nursing Instructors and Teachers, Postsecondary",0.77,Average
+340,Stationary Engineers and Boiler Operators,0.77,Average
+341,Chefs and Head Cooks,0.77,Average
+342,Bill and Account Collectors,0.77,Average
+343,Mental Health and Substance Abuse Social Workers,0.77,Average
+344,Surveyors,0.77,Average
+345,Electrical and Electronics Drafters,0.76,Average
+346,Radiologic Technologists and Technicians,0.76,Average
+347,Receptionists and Information Clerks,0.76,Average
+348,"Special Education Teachers, Secondary School",0.75,Average
+349,Nuclear Medicine Technologists,0.74,Average
+350,Buyers and Purchasing Agents,0.74,Average
+351,"Paper Goods Machine Setters, Operators, and Tenders",0.74,Average
+352,Human Resources Specialists,0.74,Average
+353,General and Operations Managers,0.74,Average
+354,"Hairdressers, Hairstylists, and Cosmetologists",0.74,Average
+355,Mechanical Drafters,0.74,Average
+356,"Life, Physical, and Social Science Occupations",0.74,Average
+357,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",0.73,Average
+358,"Bus Drivers, Transit and Intercity",0.73,Average
+359,Loan Officers,0.73,Average
+360,Tour and Travel Guides,0.73,Average
+361,Occupational Therapy Assistants,0.73,Average
+362,Nurse Practitioners,0.73,Average
+363,"Psychology Teachers, Postsecondary",0.73,Average
+364,Animal Trainers,0.72,Average
+365,"Farmers, Ranchers, and Other Agricultural Managers",0.72,Average
+366,"Preschool Teachers, Except Special Education",0.72,Average
+367,Human Resources Managers,0.71,Average
+368,Industrial Machinery Mechanics,0.71,Average
+369,Postal Service Clerks,0.7,Average
+370,Logisticians,0.7,Average
+371,Music Directors and Composers,0.7,Average
+372,"Financial Clerks, All Other",0.7,Average
+373,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",0.7,Average
+374,Furniture Finishers,0.69,Average
+375,First-Line Supervisors of Production and Operating Workers,0.69,Average
+376,Emergency Management Directors,0.69,Average
+377,Microbiologists,0.69,Average
+378,Advertising Sales Agents,0.69,Average
+379,"Foreign Language and Literature Teachers, Postsecondary",0.68,Average
+380,Avionics Technicians,0.68,Average
+381,"Securities, Commodities, and Financial Services Sales Agents",0.68,Average
+382,Executive Secretaries and Executive Administrative Assistants,0.68,Average
+383,Tellers,0.68,Average
+384,Floral Designers,0.68,Average
+385,Budget Analysts,0.68,Average
+386,Graphic Designers,0.68,Average
+387,"Ushers, Lobby Attendants, and Ticket Takers",0.68,Average
+388,Parking Attendants,0.67,Average
+389,Community Health Workers,0.67,Average
+390,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",0.67,Average
+391,Financial Managers,0.67,Average
+392,Self-Enrichment Teachers,0.67,Average
+393,"Computer Occupations, All Other",0.67,Average
+394,Audio and Video Technicians,0.67,Average
+395,Family Medicine Physicians,0.66,Average
+396,Food Batchmakers,0.66,Average
+397,Sewing Machine Operators,0.66,Average
+398,"Education and Childcare Administrators, Preschool and Daycare",0.66,Average
+399,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",0.66,Average
+400,First-Line Supervisors of Housekeeping and Janitorial Workers,0.66,Average
+401,Property Appraisers and Assessors,0.65,Average
+402,First-Line Supervisors of Non-Retail Sales Workers,0.65,Average
+403,Automotive and Watercraft Service Attendants,0.65,Average
+404,Business and Financial Operations Occupations,0.65,Average
+405,Transportation Inspectors,0.65,Average
+406,"Counselors, All Other",0.64,Average
+407,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",0.64,Average
+408,Insurance Sales Agents,0.64,Average
+409,"Computer, Automated Teller, and Office Machine Repairers",0.63,Average
+410,Occupational Health and Safety Technicians,0.63,Average
+411,"Artists and Related Workers, All Other",0.63,Average
+412,Coaches and Scouts,0.63,Average
+413,Economists,0.63,Average
+414,Printing Press Operators,0.63,Average
+415,Veterinarians,0.62,Average
+416,Web Developers and Digital Interface Designers,0.62,Average
+417,Occupational Health and Safety Specialists,0.62,Average
+418,Labor Relations Specialists,0.62,Average
+419,Speech-Language Pathologists,0.62,Average
+420,"Food Servers, Nonrestaurant",0.62,Average
+421,Surveying and Mapping Technicians,0.61,Average
+422,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",0.61,Average
+423,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",0.61,Average
+424,Aircraft Mechanics and Service Technicians,0.6,Average
+425,Bakers,0.6,Average
+426,"Tax Examiners and Collectors, and Revenue Agents",0.6,Average
+427,Magnetic Resonance Imaging Technologists,0.6,Average
+428,"Cooks, Institution and Cafeteria",0.6,Average
+429,Residential Advisors,0.59,Average
+430,Customer Service Representatives,0.59,Average
+431,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",0.59,Average
+432,Postmasters and Mail Superintendents,0.59,Average
+433,"Crematory Operators and Personal Care and Service Workers, All Other",0.59,Average
+434,Museum Technicians and Conservators,0.59,Average
+435,"Mathematical Science Teachers, Postsecondary",0.58,Average
+436,Tool and Die Makers,0.58,Average
+437,Computer Numerically Controlled Tool Operators,0.58,Average
+438,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",0.58,Average
+439,Architectural and Engineering Managers,0.57,Average
+440,"Administrative Law Judges, Adjudicators, and Hearing Officers",0.57,Average
+441,Epidemiologists,0.57,Average
+442,Architecture and Engineering Occupations,0.57,Average
+443,"Excavating and Loading Machine and Dragline Operators, Surface Mining",0.56,Average
+444,Management Analysts,0.56,Average
+445,Laundry and Dry-Cleaning Workers,0.56,Average
+446,Public Relations Specialists,0.56,Average
+447,"Middle School Teachers, Except Special and Career/Technical Education",0.55,Average
+448,"Lighting Technicians and Media and Communication Equipment Workers, All Other",0.55,Average
+449,"Medical Scientists, Except Epidemiologists",0.55,Average
+450,"Meeting, Convention, and Event Planners",0.55,Average
+451,"Arts, Design, Entertainment, Sports, and Media Occupations",0.55,Average
+452,Market Research Analysts and Marketing Specialists,0.55,Average
+453,"Electronics Engineers, Except Computer",0.55,Average
+454,"Career/Technical Education Teachers, Postsecondary",0.54,Average
+455,Veterinary Technologists and Technicians,0.54,Average
+456,Refuse and Recyclable Material Collectors,0.54,Average
+457,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",0.54,Average
+458,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",0.53,Average
+459,Environmental Engineers,0.53,Average
+460,Physical Therapists,0.53,Average
+461,Medical Transcriptionists,0.52,Average
+462,Physical Therapist Assistants,0.52,Average
+463,"Mining and Geological Engineers, Including Mining Safety Engineers",0.52,Average
+464,Paralegals and Legal Assistants,0.52,Average
+465,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",0.52,Average
+466,Proofreaders and Copy Markers,0.52,Average
+467,"Child, Family, and School Social Workers",0.52,Average
+468,Purchasing Managers,0.51,Average
+469,"English Language and Literature Teachers, Postsecondary",0.5,Low Concentration
+470,Commercial and Industrial Designers,0.5,Low Concentration
+471,Nursing Assistants,0.5,Low Concentration
+472,Telemarketers,0.5,Low Concentration
+473,Gas Plant Operators,0.5,Low Concentration
+474,Anthropologists and Archeologists,0.5,Low Concentration
+475,Crossing Guards and Flaggers,0.49,Low Concentration
+476,Desktop Publishers,0.49,Low Concentration
+477,Prepress Technicians and Workers,0.49,Low Concentration
+478,"Credit Authorizers, Checkers, and Clerks",0.48,Low Concentration
+479,"Compensation, Benefits, and Job Analysis Specialists",0.48,Low Concentration
+480,"Title Examiners, Abstractors, and Searchers",0.48,Low Concentration
+481,Computer Network Support Specialists,0.48,Low Concentration
+482,Chemists,0.48,Low Concentration
+483,Electrical Engineers,0.48,Low Concentration
+484,"Social Scientists and Related Workers, All Other",0.48,Low Concentration
+485,Occupational Therapists,0.48,Low Concentration
+486,Broadcast Announcers and Radio Disc Jockeys,0.48,Low Concentration
+487,"Farmworkers, Farm, Ranch, and Aquacultural Animals",0.47,Low Concentration
+488,Legal Occupations,0.47,Low Concentration
+489,"Special Education Teachers, Middle School",0.47,Low Concentration
+490,Interior Designers,0.47,Low Concentration
+491,Clinical Laboratory Technologists and Technicians,0.47,Low Concentration
+492,"Claims Adjusters, Examiners, and Investigators",0.47,Low Concentration
+493,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.47,Low Concentration
+494,Industrial Engineering Technologists and Technicians,0.47,Low Concentration
+495,Chemical Technicians,0.47,Low Concentration
+496,Writers and Authors,0.46,Low Concentration
+497,Medical Appliance Technicians,0.46,Low Concentration
+498,Audiologists,0.46,Low Concentration
+499,Print Binding and Finishing Workers,0.46,Low Concentration
+500,Accountants and Auditors,0.45,Low Concentration
+501,Network and Computer Systems Administrators,0.45,Low Concentration
+502,"Education Administrators, Postsecondary",0.45,Low Concentration
+503,Computer Network Architects,0.44,Low Concentration
+504,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",0.44,Low Concentration
+505,Psychiatric Aides,0.44,Low Concentration
+506,Loan Interviewers and Clerks,0.44,Low Concentration
+507,Personal Financial Advisors,0.44,Low Concentration
+508,Technical Writers,0.44,Low Concentration
+509,Concierges,0.44,Low Concentration
+510,Musicians and Singers,0.43,Low Concentration
+511,Computer User Support Specialists,0.43,Low Concentration
+512,Radiation Therapists,0.43,Low Concentration
+513,Database Administrators and Architects,0.43,Low Concentration
+514,"Camera Operators, Television, Video, and Film",0.43,Low Concentration
+515,Fundraisers,0.42,Low Concentration
+516,Real Estate Sales Agents,0.42,Low Concentration
+517,Industrial Engineers,0.41,Low Concentration
+518,General Internal Medicine Physicians,0.41,Low Concentration
+519,"Miscellaneous Entertainers and Performers, Sports and Related Workers",0.41,Low Concentration
+520,"Chemistry Teachers, Postsecondary",0.41,Low Concentration
+521,New Accounts Clerks,0.4,Low Concentration
+522,"History Teachers, Postsecondary",0.4,Low Concentration
+523,Legislators,0.39,Low Concentration
+524,"Therapists, All Other",0.39,Low Concentration
+525,Brokerage Clerks,0.39,Low Concentration
+526,Art Directors,0.39,Low Concentration
+527,Curators,0.39,Low Concentration
+528,"Engineers, All Other",0.39,Low Concentration
+529,Fire Inspectors and Investigators,0.39,Low Concentration
+530,Mechanical Engineers,0.39,Low Concentration
+531,Lawyers,0.38,Low Concentration
+532,Librarians and Media Collections Specialists,0.38,Low Concentration
+533,Computer and Information Systems Managers,0.38,Low Concentration
+534,Set and Exhibit Designers,0.38,Low Concentration
+535,"Architects, Except Landscape and Naval",0.38,Low Concentration
+536,First-Line Supervisors of Firefighting and Prevention Workers,0.37,Low Concentration
+537,Computer and Mathematical Occupations,0.37,Low Concentration
+538,Public Relations and Fundraising Managers,0.36,Low Concentration
+539,Aerospace Engineers,0.36,Low Concentration
+540,Private Detectives and Investigators,0.36,Low Concentration
+541,Marketing Managers,0.36,Low Concentration
+542,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.36,Low Concentration
+543,Athletic Trainers,0.35,Low Concentration
+544,"Computer Science Teachers, Postsecondary",0.35,Low Concentration
+545,"Umpires, Referees, and Other Sports Officials",0.35,Low Concentration
+546,Computer Programmers,0.35,Low Concentration
+547,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",0.34,Low Concentration
+548,Film and Video Editors,0.34,Low Concentration
+549,Sales Engineers,0.33,Low Concentration
+550,"Judges, Magistrate Judges, and Magistrates",0.33,Low Concentration
+551,Advertising and Promotions Managers,0.32,Low Concentration
+552,"Art, Drama, and Music Teachers, Postsecondary",0.32,Low Concentration
+553,"Electronic Equipment Installers and Repairers, Motor Vehicles",0.31,Low Concentration
+554,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",0.31,Low Concentration
+555,Compensation and Benefits Managers,0.31,Low Concentration
+556,Biological Technicians,0.31,Low Concentration
+557,Travel Agents,0.31,Low Concentration
+558,Computer Systems Analysts,0.31,Low Concentration
+559,Mechanical Engineering Technologists and Technicians,0.3,Low Concentration
+560,"Mail Clerks and Mail Machine Operators, Except Postal Service",0.3,Low Concentration
+561,Computer and Information Research Scientists,0.3,Low Concentration
+562,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",0.3,Low Concentration
+563,Audiovisual Equipment Installers and Repairers,0.3,Low Concentration
+564,"Biological Science Teachers, Postsecondary",0.29,Low Concentration
+565,Natural Sciences Managers,0.29,Low Concentration
+566,Operations Research Analysts,0.28,Low Concentration
+567,"Business Teachers, Postsecondary",0.28,Low Concentration
+568,Special Effects Artists and Animators,0.28,Low Concentration
+569,"Meat, Poultry, and Fish Cutters and Trimmers",0.28,Low Concentration
+570,"Sociology Teachers, Postsecondary",0.28,Low Concentration
+571,"Political Science Teachers, Postsecondary",0.28,Low Concentration
+572,Credit Analysts,0.27,Low Concentration
+573,Conservation Scientists,0.27,Low Concentration
+574,Highway Maintenance Workers,0.26,Low Concentration
+575,"Communications Teachers, Postsecondary",0.26,Low Concentration
+576,Software Developers and Software Quality Assurance Analysts and Testers,0.26,Low Concentration
+577,"Teaching Assistants, Postsecondary",0.25,Low Concentration
+578,"Physics Teachers, Postsecondary",0.25,Low Concentration
+579,Broadcast Technicians,0.24,Low Concentration
+580,"Engineering Teachers, Postsecondary",0.23,Low Concentration
+581,First-Line Supervisors of Police and Detectives,0.23,Low Concentration
+582,Statisticians,0.23,Low Concentration
+583,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",0.22,Low Concentration
+584,Chemical Equipment Operators and Tenders,0.22,Low Concentration
+585,"Education Teachers, Postsecondary",0.22,Low Concentration
+586,Bioengineers and Biomedical Engineers,0.22,Low Concentration
+587,Editors,0.21,Low Concentration
+588,Information Security Analysts,0.21,Low Concentration
+589,Materials Engineers,0.2,Low Concentration
+590,Millwrights,0.2,Low Concentration
+591,Physicists,0.19,Low Concentration
+592,Computer Hardware Engineers,0.19,Low Concentration
+593,Producers and Directors,0.18,Low Concentration
+594,Insurance Underwriters,0.17,Low Concentration
+595,"Data Scientists and Mathematical Science Occupations, All Other",0.16,Low Concentration
+596,Financial Examiners,0.16,Low Concentration
+597,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",0.14,Low Concentration
+598,Biochemists and Biophysicists,0.12,Low Concentration
+599,"Health Specialties Teachers, Postsecondary",0.1,Low Concentration
+600,"Career/Technical Education Teachers, Secondary School",0.09,Low Concentration
+601,Chief Executives,,Low Concentration
+602,"Education Administrators, All Other",,Low Concentration
+603,Social and Community Service Managers,,Low Concentration
+604,Training and Development Specialists,,Low Concentration
+605,Chemical Engineers,,Low Concentration
+606,Aerospace Engineering and Operations Technologists and Technicians,,Low Concentration
+607,Zoologists and Wildlife Biologists,,Low Concentration
+608,"Geoscientists, Except Hydrologists and Geographers",,Low Concentration
+609,"Physical Scientists, All Other",,Low Concentration
+610,Geological and Hydrologic Technicians,,Low Concentration
+611,"Philosophy and Religion Teachers, Postsecondary",,Low Concentration
+612,"Kindergarten Teachers, Except Special Education",,Low Concentration
+613,"Special Education Teachers, All Other",,Low Concentration
+614,Fashion Designers,,Low Concentration
+615,Exercise Physiologists,,Low Concentration
+616,"Pediatricians, General",,Low Concentration
+617,Ophthalmic Medical Technicians,,Low Concentration
+618,Hearing Aid Specialists,,Low Concentration
+619,Occupational Therapy Aides,,Low Concentration
+620,Gambling Surveillance Officers and Gambling Investigators,,Low Concentration
+621,Tree Trimmers and Pruners,,Low Concentration
+622,"Gambling Service Workers, All Other",,Low Concentration
+623,"Entertainment Attendants and Related Workers, All Other",,Low Concentration
+624,Funeral Attendants,,Low Concentration
+625,"Morticians, Undertakers, and Funeral Arrangers",,Low Concentration
+626,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",,Low Concentration
+627,Correspondence Clerks,,Low Concentration
+628,"Agricultural Workers, All Other",,Low Concentration
+629,Hazardous Materials Removal Workers,,Low Concentration
+630,Helpers--Extraction Workers,,Low Concentration
+631,"Radio, Cellular, and Tower Equipment Installers and Repairers",,Low Concentration
+632,Farm Equipment Mechanics and Service Technicians,,Low Concentration
+633,Bicycle Repairers,,Low Concentration
+634,Musical Instrument Repairers and Tuners,,Low Concentration
+635,Locksmiths and Safe Repairers,,Low Concentration
+636,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",,Low Concentration
+637,"Coil Winders, Tapers, and Finishers",,Low Concentration
+638,Slaughterers and Meat Packers,,Low Concentration
+639,"Food Processing Workers, All Other",,Low Concentration
+640,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",,Low Concentration
+641,"Layout Workers, Metal and Plastic",,Low Concentration
+642,Shoe and Leather Workers and Repairers,,Low Concentration
+643,"Sewers, Hand",,Low Concentration
+644,"Woodworkers, All Other",,Low Concentration
+645,"Cutters and Trimmers, Hand",,Low Concentration
+646,"Cutting and Slicing Machine Setters, Operators, and Tenders",,Low Concentration
+647,Jewelers and Precious Stone and Metal Workers,,Low Concentration
+648,Dental Laboratory Technicians,,Low Concentration
+649,Photographic Process Workers and Processing Machine Operators,,Low Concentration
+650,Etchers and Engravers,,Low Concentration
+651,Airfield Operations Specialists,,Low Concentration
+652,Passenger Attendants,,Low Concentration
+653,"Aircraft Service Attendants and Transportation Workers, All Other",,Low Concentration
+654,Conveyor Operators and Tenders,,Low Concentration
+655,Crane and Tower Operators,,Low Concentration

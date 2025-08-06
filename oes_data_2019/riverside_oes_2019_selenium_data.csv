@@ -1,0 +1,656 @@
+Occupation code,Occupation title (click on the occupation title to view its profile),Level,Employment,Employment RSE,"Employment per 1,000 jobs",Location quotient,Median hourly wage,Mean hourly wage,Annual mean wage,Mean wage RSE
+00-0000,All Occupations,total,1538400,0.6%,1000.000,1.00,$18.17,$24.37,"$50,700",0.8%
+11-0000,Management Occupations,major,66840,1.9%,43.450,0.79,$48.21,$54.62,"$113,610",0.9%
+11-1011,Chief Executives,detail,(8),(8),(8),(8),$89.76,$94.13,"$195,790",2.6%
+11-1021,General and Operations Managers,detail,18590,3.4%,12.083,0.74,$48.53,$56.68,"$117,900",1.3%
+11-1031,Legislators,detail,210,16.1%,0.139,0.39,(4),(4),"$74,500",7.2%
+11-2011,Advertising and Promotions Managers,detail,80,20.2%,0.054,0.32,$48.35,$53.22,"$110,700",8.2%
+11-2021,Marketing Managers,detail,990,10.6%,0.641,0.36,$54.06,$62.05,"$129,060",2.7%
+11-2022,Sales Managers,detail,5880,7.7%,3.822,1.39,$43.59,$56.03,"$116,550",5.4%
+11-2030,Public Relations and Fundraising Managers,broad,300,9.9%,0.197,0.36,$58.42,$58.67,"$122,020",3.2%
+11-3010,Administrative Services and Facilities Managers,broad,2570,6.3%,1.673,0.80,$47.16,$50.09,"$104,180",2.4%
+11-3021,Computer and Information Systems Managers,detail,1730,5.9%,1.126,0.38,$63.68,$68.03,"$141,500",2.2%
+11-3031,Financial Managers,detail,4590,6.3%,2.983,0.67,$53.84,$60.41,"$125,650",2.6%
+11-3051,Industrial Production Managers,detail,1580,5.3%,1.028,0.81,$47.45,$52.41,"$109,010",2.9%
+11-3061,Purchasing Managers,detail,380,14.0%,0.249,0.51,$47.93,$58.82,"$122,340",4.7%
+11-3071,"Transportation, Storage, and Distribution Managers",detail,2210,9.4%,1.437,1.60,$41.19,$45.02,"$93,630",2.5%
+11-3111,Compensation and Benefits Managers,detail,50,17.9%,0.035,0.31,$58.01,$62.40,"$129,800",4.7%
+11-3121,Human Resources Managers,detail,1140,6.7%,0.743,0.71,$54.28,$56.96,"$118,470",2.1%
+11-3131,Training and Development Managers,detail,330,13.7%,0.213,0.81,$56.27,$57.48,"$119,560",2.7%
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",detail,40,40.9%,0.025,0.72,$43.79,$41.93,"$87,220",14.3%
+11-9021,Construction Managers,detail,2890,9.9%,1.881,0.94,$40.94,$44.86,"$93,300",3.2%
+11-9031,"Education and Childcare Administrators, Preschool and Daycare",detail,360,26.5%,0.237,0.66,$20.07,$26.86,"$55,880",11.7%
+11-9032,"Education Administrators, Kindergarten through Secondary",detail,2320,6.7%,1.505,0.82,(4),(4),"$132,230",1.4%
+11-9033,"Education Administrators, Postsecondary",detail,680,31.8%,0.444,0.45,$51.35,$56.72,"$117,970",2.9%
+11-9039,"Education Administrators, All Other",detail,(8),(8),(8),(8),$60.36,$56.57,"$117,660",5.1%
+11-9041,Architectural and Engineering Managers,detail,1170,6.5%,0.759,0.57,$73.58,$75.53,"$157,090",2.3%
+11-9051,Food Service Managers,detail,3800,8.8%,2.470,1.54,$24.25,$26.35,"$54,810",2.8%
+11-9081,Lodging Managers,detail,340,26.0%,0.221,0.85,$41.05,$45.22,"$94,060",7.6%
+11-9111,Medical and Health Services Managers,detail,3390,4.9%,2.204,0.82,$58.51,$62.96,"$130,960",2.6%
+11-9121,Natural Sciences Managers,detail,210,30.3%,0.133,0.29,$71.30,$69.86,"$145,310",6.9%
+11-9131,Postmasters and Mail Superintendents,detail,90,0.0%,0.056,0.59,$41.08,$40.94,"$85,150",2.3%
+11-9141,"Property, Real Estate, and Community Association Managers",detail,2420,12.6%,1.570,1.04,$32.85,$38.39,"$79,840",5.4%
+11-9151,Social and Community Service Managers,detail,(8),(8),(8),(8),$34.12,$36.01,"$74,900",5.7%
+11-9161,Emergency Management Directors,detail,70,9.6%,0.047,0.69,$45.05,$50.49,"$105,020",5.6%
+11-9198,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",detail,3240,5.0%,2.107,0.66,$52.79,$54.96,"$114,310",1.7%
+13-0000,Business and Financial Operations Occupations,major,55700,2.3%,36.209,0.65,$30.93,$33.45,"$69,580",1.0%
+13-1020,Buyers and Purchasing Agents,broad,3280,5.5%,2.133,0.74,$27.58,$29.26,"$60,860",1.5%
+13-1031,"Claims Adjusters, Examiners, and Investigators",detail,1420,7.1%,0.922,0.47,$37.88,$37.28,"$77,550",3.6%
+13-1041,Compliance Officers,detail,2730,5.7%,1.772,0.82,$34.54,$35.14,"$73,090",2.5%
+13-1051,Cost Estimators,detail,2880,8.1%,1.875,1.31,$31.21,$33.33,"$69,330",2.4%
+13-1071,Human Resources Specialists,detail,4930,6.9%,3.204,0.74,$29.68,$31.37,"$65,250",1.0%
+13-1075,Labor Relations Specialists,detail,490,19.2%,0.319,0.62,$34.87,$33.14,"$68,920",15.7%
+13-1081,Logisticians,detail,1330,11.6%,0.864,0.70,$36.70,$36.95,"$76,860",3.5%
+13-1111,Management Analysts,detail,4170,7.2%,2.709,0.56,$35.75,$38.18,"$79,410",4.1%
+13-1121,"Meeting, Convention, and Event Planners",detail,680,13.2%,0.439,0.55,$21.90,$25.04,"$52,070",4.8%
+13-1131,Fundraisers,detail,360,26.6%,0.235,0.42,$26.05,$29.20,"$60,740",4.4%
+13-1141,"Compensation, Benefits, and Job Analysis Specialists",detail,440,17.7%,0.289,0.48,$32.81,$34.44,"$71,640",2.1%
+13-1151,Training and Development Specialists,detail,(8),(8),(8),(8),$30.22,$32.32,"$67,220",1.9%
+13-1161,Market Research Analysts and Marketing Specialists,detail,3940,6.9%,2.561,0.55,$24.38,$26.13,"$54,360",2.1%
+13-1198,"Project Management Specialists and Business Operations Specialists, All Other",detail,12250,4.4%,7.965,0.91,$31.06,$33.24,"$69,130",2.6%
+13-2011,Accountants and Auditors,detail,6100,4.9%,3.963,0.45,$33.86,$35.35,"$73,530",1.2%
+13-2020,Property Appraisers and Assessors,broad,380,25.7%,0.249,0.65,$26.87,$32.19,"$66,950",6.7%
+13-2031,Budget Analysts,detail,370,7.7%,0.238,0.68,$33.82,$34.66,"$72,090",7.6%
+13-2041,Credit Analysts,detail,210,24.8%,0.137,0.27,$35.04,$39.05,"$81,220",10.3%
+13-2052,Personal Financial Advisors,detail,960,13.3%,0.626,0.44,$30.96,$48.33,"$100,530",16.4%
+13-2053,Insurance Underwriters,detail,180,36.7%,0.114,0.17,$32.08,$35.22,"$73,250",8.0%
+13-2061,Financial Examiners,detail,110,31.5%,0.070,0.16,$37.01,$41.26,"$85,820",9.2%
+13-2071,Credit Counselors,detail,340,32.5%,0.218,1.00,$22.41,$22.95,"$47,730",1.9%
+13-2072,Loan Officers,detail,2340,14.0%,1.524,0.73,$32.35,$38.59,"$80,270",4.7%
+13-2081,"Tax Examiners and Collectors, and Revenue Agents",detail,340,0.0%,0.220,0.60,$38.73,$39.10,"$81,340",1.4%
+13-2082,Tax Preparers,detail,670,28.2%,0.437,0.96,$13.59,$15.81,"$32,890",7.2%
+13-2098,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",detail,2130,11.3%,1.385,0.44,$32.58,$35.65,"$74,150",3.0%
+15-0000,Computer and Mathematical Occupations,major,17860,4.3%,11.607,0.37,$38.25,$40.21,"$83,640",2.1%
+15-1211,Computer Systems Analysts,detail,1920,9.0%,1.251,0.31,$41.17,$42.63,"$88,670",1.9%
+15-1212,Information Security Analysts,detail,270,14.9%,0.176,0.21,$55.39,$54.80,"$113,990",3.4%
+15-1221,Computer and Information Research Scientists,detail,100,13.4%,0.064,0.30,$54.16,$54.08,"$112,480",6.5%
+15-1231,Computer Network Support Specialists,detail,940,8.4%,0.611,0.48,$28.61,$31.21,"$64,920",2.0%
+15-1232,Computer User Support Specialists,detail,2940,5.7%,1.909,0.43,$27.83,$29.57,"$61,510",2.0%
+15-1241,Computer Network Architects,detail,690,16.0%,0.452,0.44,$53.19,$51.79,"$107,730",6.2%
+15-1244,Network and Computer Systems Administrators,detail,1660,7.5%,1.080,0.45,$41.13,$41.99,"$87,330",2.0%
+15-1245,Database Administrators and Architects,detail,560,16.0%,0.366,0.43,$46.92,$47.13,"$98,030",2.9%
+15-1251,Computer Programmers,detail,730,16.3%,0.475,0.35,$42.65,$42.01,"$87,370",3.3%
+15-1256,Software Developers and Software Quality Assurance Analysts and Testers,detail,3850,9.1%,2.505,0.26,$46.38,$47.60,"$99,000",3.1%
+15-1257,Web Developers and Digital Interface Designers,detail,960,34.6%,0.624,0.62,$24.94,$26.86,"$55,880",4.8%
+15-1299,"Computer Occupations, All Other",detail,2740,7.3%,1.783,0.67,$37.01,$38.79,"$80,690",4.2%
+15-2031,Operations Research Analysts,detail,300,11.1%,0.193,0.28,$38.65,$43.71,"$90,910",3.1%
+15-2041,Statisticians,detail,100,25.8%,0.062,0.23,$40.99,$42.09,"$87,540",4.6%
+15-2098,"Data Scientists and Mathematical Science Occupations, All Other",detail,50,32.7%,0.033,0.16,$42.96,$47.69,"$99,190",8.3%
+17-0000,Architecture and Engineering Occupations,major,15410,3.6%,10.014,0.57,$39.27,$42.34,"$88,060",2.1%
+17-1011,"Architects, Except Landscape and Naval",detail,420,35.1%,0.274,0.38,(8),(8),(8),(8)
+17-1012,Landscape Architects,detail,290,49.9%,0.186,1.34,$38.66,$39.79,"$82,770",6.0%
+17-1021,Cartographers and Photogrammetrists,detail,100,46.4%,0.066,0.85,$29.58,$33.36,"$69,390",6.6%
+17-1022,Surveyors,detail,360,17.6%,0.236,0.77,$44.29,$44.88,"$93,360",3.4%
+17-2011,Aerospace Engineers,detail,240,42.0%,0.156,0.36,$51.00,$52.05,"$108,270",4.8%
+17-2031,Bioengineers and Biomedical Engineers,detail,40,43.0%,0.029,0.22,(8),(8),(8),(8)
+17-2041,Chemical Engineers,detail,(8),(8),(8),(8),$31.26,$39.03,"$81,170",3.2%
+17-2051,Civil Engineers,detail,2740,7.7%,1.780,0.84,$51.49,$55.66,"$115,770",4.4%
+17-2061,Computer Hardware Engineers,detail,140,22.7%,0.090,0.19,$54.61,$59.84,"$124,480",10.8%
+17-2071,Electrical Engineers,detail,940,12.7%,0.611,0.48,$44.27,$45.04,"$93,670",2.3%
+17-2072,"Electronics Engineers, Except Computer",detail,750,11.8%,0.486,0.55,$55.58,$52.93,"$110,090",2.7%
+17-2081,Environmental Engineers,detail,290,21.9%,0.191,0.53,$47.46,$48.00,"$99,840",2.9%
+17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",detail,140,37.7%,0.093,0.53,$56.05,$53.52,"$111,320",2.4%
+17-2112,Industrial Engineers,detail,1260,9.9%,0.821,0.41,$39.67,$40.66,"$84,570",2.4%
+17-2131,Materials Engineers,detail,60,28.5%,0.037,0.20,$41.20,$43.40,"$90,270",5.9%
+17-2141,Mechanical Engineers,detail,1250,9.9%,0.815,0.39,$41.86,$42.65,"$88,710",2.5%
+17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers",detail,30,31.3%,0.022,0.52,$48.62,$49.11,"$102,140",5.2%
+17-2199,"Engineers, All Other",detail,630,14.6%,0.408,0.39,$44.55,$45.10,"$93,810",1.7%
+17-3011,Architectural and Civil Drafters,detail,1000,16.8%,0.647,0.96,$27.18,$28.69,"$59,680",4.9%
+17-3012,Electrical and Electronics Drafters,detail,190,22.0%,0.126,0.76,$30.48,$31.68,"$65,900",5.2%
+17-3013,Mechanical Drafters,detail,430,15.7%,0.278,0.74,$26.41,$26.84,"$55,820",2.0%
+17-3019,"Drafters, All Other",detail,190,33.8%,0.122,1.23,$20.58,$24.04,"$50,010",14.7%
+17-3021,Aerospace Engineering and Operations Technologists and Technicians,detail,(8),(8),(8),(8),$31.52,$31.46,"$65,430",4.5%
+17-3022,Civil Engineering Technologists and Technicians,detail,620,25.4%,0.406,0.87,$28.98,$30.05,"$62,500",3.5%
+17-3023,Electrical and Electronic Engineering Technologists and Technicians,detail,1060,10.3%,0.690,0.83,$29.69,$32.03,"$66,630",4.3%
+17-3025,Environmental Engineering Technologists and Technicians,detail,400,28.1%,0.260,2.12,$32.62,$31.92,"$66,400",8.3%
+17-3026,Industrial Engineering Technologists and Technicians,detail,330,14.6%,0.216,0.47,$30.28,$30.56,"$63,560",3.5%
+17-3027,Mechanical Engineering Technologists and Technicians,detail,130,23.8%,0.087,0.30,$21.25,$25.12,"$52,250",8.4%
+17-3031,Surveying and Mapping Technicians,detail,340,16.4%,0.220,0.61,$28.18,$31.23,"$64,960",7.5%
+17-3098,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",detail,650,11.3%,0.424,0.70,$36.79,$36.94,"$76,840",2.4%
+19-0000,"Life, Physical, and Social Science Occupations",major,10000,6.7%,6.503,0.74,$37.46,$40.00,"$83,210",2.5%
+19-1012,Food Scientists and Technologists,detail,130,28.3%,0.087,0.95,$31.41,$35.01,"$72,830",3.4%
+19-1013,Soil and Plant Scientists,detail,150,48.8%,0.097,1.01,$34.13,$39.88,"$82,950",21.5%
+19-1021,Biochemists and Biophysicists,detail,40,36.6%,0.026,0.12,(8),(8),(8),(8)
+19-1022,Microbiologists,detail,130,40.8%,0.086,0.69,$47.65,$44.68,"$92,940",11.6%
+19-1023,Zoologists and Wildlife Biologists,detail,(8),(8),(8),(8),$35.68,$36.91,"$76,770",4.2%
+19-1029,"Biological Scientists, All Other",detail,420,34.7%,0.271,0.99,$37.84,$39.36,"$81,860",6.3%
+19-1031,Conservation Scientists,detail,60,13.9%,0.040,0.27,$40.01,$40.52,"$84,280",2.4%
+19-1041,Epidemiologists,detail,40,1.7%,0.029,0.57,$29.31,$31.76,"$66,060",4.5%
+19-1042,"Medical Scientists, Except Epidemiologists",detail,730,15.4%,0.475,0.55,$51.36,$50.46,"$104,950",2.3%
+19-1099,"Life Scientists, All Other",detail,60,13.7%,0.039,0.89,$35.07,$41.20,"$85,700",15.4%
+19-2012,Physicists,detail,30,5.3%,0.021,0.19,$51.52,$52.87,"$109,970",7.0%
+19-2031,Chemists,detail,420,13.7%,0.275,0.48,$38.59,$39.45,"$82,050",5.7%
+19-2041,"Environmental Scientists and Specialists, Including Health",detail,790,18.2%,0.513,0.89,$40.90,$40.61,"$84,460",5.0%
+19-2042,"Geoscientists, Except Hydrologists and Geographers",detail,(8),(8),(8),(8),$30.55,$42.79,"$89,010",13.3%
+19-2099,"Physical Scientists, All Other",detail,(8),(8),(8),(8),$45.96,$49.24,"$102,420",6.6%
+19-3011,Economists,detail,130,36.1%,0.082,0.63,$47.54,$46.64,"$97,000",2.6%
+19-3031,"Clinical, Counseling, and School Psychologists",detail,1790,13.7%,1.161,1.51,$49.03,$50.42,"$104,860",5.1%
+19-3039,"Psychologists, All Other",detail,120,26.0%,0.080,0.83,$51.41,$47.40,"$98,580",4.7%
+19-3051,Urban and Regional Planners,detail,660,18.3%,0.428,1.63,$45.77,$45.28,"$94,180",1.4%
+19-3091,Anthropologists and Archeologists,detail,40,16.5%,0.023,0.50,$33.31,$33.94,"$70,590",1.8%
+19-3099,"Social Scientists and Related Workers, All Other",detail,170,3.8%,0.111,0.48,$40.06,$41.48,"$86,270",3.3%
+19-4010,Agricultural and Food Science Technicians,broad,230,28.8%,0.150,1.01,$21.70,$23.29,"$48,440",8.1%
+19-4021,Biological Technicians,detail,260,39.3%,0.169,0.31,$23.02,$24.17,"$50,270",3.6%
+19-4031,Chemical Technicians,detail,320,14.8%,0.210,0.47,$23.17,$24.45,"$50,860",3.6%
+19-4042,"Environmental Science and Protection Technicians, Including Health",detail,360,22.7%,0.235,1.06,$24.88,$25.10,"$52,200",5.4%
+19-4045,Geological and Hydrologic Technicians,detail,(8),(8),(8),(8),$24.38,$27.36,"$56,910",14.6%
+19-4071,Forest and Conservation Technicians,detail,360,0.5%,0.235,1.81,$24.75,$24.41,"$50,780",2.3%
+19-4092,Forensic Science Technicians,detail,250,2.2%,0.165,1.47,$36.22,$37.00,"$76,950",1.8%
+19-4099,"Life, Physical, and Social Science Technicians, All Other",detail,670,28.9%,0.436,1.00,$27.56,$27.71,"$57,640",2.7%
+19-5011,Occupational Health and Safety Specialists,detail,610,10.8%,0.394,0.62,$38.60,$38.15,"$79,350",2.3%
+19-5012,Occupational Health and Safety Technicians,detail,140,13.8%,0.088,0.63,$28.17,$28.83,"$59,960",5.7%
+21-0000,Community and Social Service Occupations,major,26900,4.3%,17.488,1.14,$24.83,$28.16,"$58,580",2.8%
+21-1012,"Educational, Guidance, and Career Counselors and Advisors",detail,2650,7.4%,1.724,0.85,$42.81,$42.20,"$87,780",3.9%
+21-1013,Marriage and Family Therapists,detail,3530,18.2%,2.293,5.70,$21.47,$25.45,"$52,940",7.7%
+21-1015,Rehabilitation Counselors,detail,1640,42.3%,1.068,1.44,$14.12,$16.55,"$34,420",6.4%
+21-1018,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",detail,3890,13.1%,2.531,1.31,$23.23,$25.88,"$53,820",4.6%
+21-1019,"Counselors, All Other",detail,170,28.2%,0.110,0.64,$26.86,$31.28,"$65,050",11.6%
+21-1021,"Child, Family, and School Social Workers",detail,1780,11.1%,1.159,0.52,$26.15,$27.36,"$56,920",4.6%
+21-1022,Healthcare Social Workers,detail,1560,14.1%,1.015,0.85,$35.47,$36.49,"$75,900",5.6%
+21-1023,Mental Health and Substance Abuse Social Workers,detail,950,11.3%,0.619,0.77,$29.64,$32.70,"$68,020",6.4%
+21-1029,"Social Workers, All Other",detail,1600,6.5%,1.038,2.61,$35.41,$35.02,"$72,830",2.9%
+21-1091,Health Education Specialists,detail,510,21.9%,0.332,0.83,$29.44,$33.10,"$68,840",8.1%
+21-1092,Probation Officers and Correctional Treatment Specialists,detail,1120,1.3%,0.730,1.22,$39.87,$42.21,"$87,800",6.3%
+21-1093,Social and Human Service Assistants,detail,4490,15.6%,2.921,1.06,$18.65,$20.49,"$42,630",5.5%
+21-1094,Community Health Workers,detail,420,25.3%,0.270,0.67,$23.07,$25.07,"$52,150",6.0%
+21-1099,"Community and Social Service Specialists, All Other",detail,1630,21.9%,1.057,1.59,$23.29,$23.38,"$48,640",8.0%
+21-2011,Clergy,detail,490,12.9%,0.317,0.87,$29.03,$29.56,"$61,490",8.5%
+21-2021,"Directors, Religious Activities and Education",detail,390,23.5%,0.253,1.70,$19.84,$23.60,"$49,080",8.1%
+21-2099,"Religious Workers, All Other",detail,80,38.3%,0.052,0.80,$14.12,$18.75,"$39,000",11.4%
+23-0000,Legal Occupations,major,5620,6.5%,3.653,0.47,$42.34,$55.49,"$115,410",5.5%
+23-1011,Lawyers,detail,2650,9.8%,1.722,0.38,$75.79,$81.47,"$169,460",5.2%
+23-1012,Judicial Law Clerks,detail,160,17.3%,0.107,0.94,$34.01,$32.95,"$68,540",3.4%
+23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers",detail,90,4.5%,0.056,0.57,$69.23,$64.76,"$134,690",2.1%
+23-1023,"Judges, Magistrate Judges, and Magistrates",detail,100,5.2%,0.064,0.33,$96.23,$94.78,"$197,140",3.6%
+23-2011,Paralegals and Legal Assistants,detail,1800,8.7%,1.173,0.52,$27.61,$29.77,"$61,930",5.9%
+23-2093,"Title Examiners, Abstractors, and Searchers",detail,260,19.0%,0.171,0.48,$27.33,$28.51,"$59,300",6.9%
+23-2099,"Legal Support Workers, All Other",detail,530,16.0%,0.344,1.12,$25.46,$25.00,"$52,000",3.9%
+25-0000,Educational Instruction and Library Occupations,major,104940,3.4%,68.212,1.13,$28.66,$32.35,"$67,290",2.3%
+25-1011,"Business Teachers, Postsecondary",detail,250,37.1%,0.162,0.28,(4),(4),"$105,740",2.8%
+25-1021,"Computer Science Teachers, Postsecondary",detail,120,26.0%,0.075,0.35,(4),(4),"$81,660",8.0%
+25-1022,"Mathematical Science Teachers, Postsecondary",detail,310,9.5%,0.202,0.58,(4),(4),"$105,590",4.8%
+25-1032,"Engineering Teachers, Postsecondary",detail,90,30.5%,0.056,0.23,(4),(4),"$104,100",5.7%
+25-1042,"Biological Science Teachers, Postsecondary",detail,160,20.4%,0.105,0.29,(4),(4),"$110,760",4.4%
+25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",detail,40,22.0%,0.024,0.31,(4),(4),"$113,240",5.2%
+25-1052,"Chemistry Teachers, Postsecondary",detail,90,21.2%,0.060,0.41,(4),(4),"$101,140",4.1%
+25-1054,"Physics Teachers, Postsecondary",detail,40,33.3%,0.023,0.25,(4),(4),"$126,650",5.9%
+25-1061,"Anthropology and Archeology Teachers, Postsecondary",detail,60,31.8%,0.041,1.02,(4),(4),"$114,720",3.2%
+25-1065,"Political Science Teachers, Postsecondary",detail,50,35.0%,0.031,0.28,(4),(4),"$102,080",3.6%
+25-1066,"Psychology Teachers, Postsecondary",detail,290,20.3%,0.187,0.73,(4),(4),"$101,010",3.3%
+25-1067,"Sociology Teachers, Postsecondary",detail,40,27.5%,0.027,0.28,(4),(4),"$117,280",5.5%
+25-1071,"Health Specialties Teachers, Postsecondary",detail,200,20.7%,0.133,0.10,(4),(4),"$102,360",8.0%
+25-1072,"Nursing Instructors and Teachers, Postsecondary",detail,480,20.6%,0.311,0.77,(4),(4),"$92,670",8.5%
+25-1081,"Education Teachers, Postsecondary",detail,140,29.0%,0.094,0.22,(4),(4),"$100,670",3.5%
+25-1121,"Art, Drama, and Music Teachers, Postsecondary",detail,310,21.3%,0.203,0.32,(4),(4),"$99,090",6.3%
+25-1122,"Communications Teachers, Postsecondary",detail,80,27.6%,0.052,0.26,(4),(4),"$109,610",5.0%
+25-1123,"English Language and Literature Teachers, Postsecondary",detail,360,13.7%,0.231,0.50,(4),(4),"$102,920",5.0%
+25-1124,"Foreign Language and Literature Teachers, Postsecondary",detail,180,37.2%,0.114,0.68,(4),(4),"$107,650",4.0%
+25-1125,"History Teachers, Postsecondary",detail,90,18.3%,0.057,0.40,(4),(4),"$106,150",3.7%
+25-1126,"Philosophy and Religion Teachers, Postsecondary",detail,(8),(8),(8),(8),(4),(4),"$109,030",14.0%
+25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",detail,170,32.6%,0.110,1.01,(4),(4),"$77,830",9.8%
+25-1194,"Career/Technical Education Teachers, Postsecondary",detail,640,26.4%,0.414,0.54,$23.96,$29.25,"$60,850",6.7%
+25-2011,"Preschool Teachers, Except Special Education",detail,3250,14.5%,2.112,0.72,$15.13,$17.05,"$35,460",3.1%
+25-2012,"Kindergarten Teachers, Except Special Education",detail,(8),(8),(8),(8),(4),(4),"$75,660",5.8%
+25-2021,"Elementary School Teachers, Except Special Education",detail,22860,9.0%,14.861,1.53,(4),(4),"$90,270",2.1%
+25-2022,"Middle School Teachers, Except Special and Career/Technical Education",detail,3610,30.4%,2.344,0.55,(4),(4),"$85,340",5.4%
+25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",detail,11920,26.7%,7.749,1.10,(4),(4),"$84,970",2.4%
+25-2032,"Career/Technical Education Teachers, Secondary School",detail,70,31.3%,0.046,0.09,(4),(4),"$70,910",9.6%
+25-2052,"Special Education Teachers, Kindergarten and Elementary School",detail,2640,12.3%,1.718,1.30,(4),(4),"$81,260",4.6%
+25-2057,"Special Education Teachers, Middle School",detail,420,35.4%,0.276,0.47,(4),(4),"$82,750",2.4%
+25-2058,"Special Education Teachers, Secondary School",detail,1130,27.3%,0.733,0.75,(4),(4),"$87,660",2.3%
+25-2059,"Special Education Teachers, All Other",detail,(8),(8),(8),(8),(4),(4),"$77,850",5.2%
+25-3011,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",detail,120,25.8%,0.077,0.22,$45.78,$44.41,"$92,360",3.7%
+25-3021,Self-Enrichment Teachers,detail,1790,28.0%,1.161,0.67,$13.33,$15.97,"$33,230",6.6%
+25-3031,"Substitute Teachers, Short-Term",detail,15400,12.4%,10.010,2.50,$18.00,$18.77,"$39,050",2.7%
+25-3097,"Tutors and Teachers and Instructors, All Other",detail,3160,16.9%,2.051,0.94,(4),(4),"$55,540",7.8%
+25-4012,Curators,detail,50,29.4%,0.035,0.39,$29.51,$31.04,"$64,570",2.8%
+25-4013,Museum Technicians and Conservators,detail,80,33.9%,0.053,0.59,$22.55,$23.36,"$48,580",5.6%
+25-4022,Librarians and Media Collections Specialists,detail,530,12.3%,0.347,0.38,$36.32,$38.14,"$79,340",4.1%
+25-4031,Library Technicians,detail,930,8.2%,0.606,1.00,$21.45,$20.89,"$43,460",4.4%
+25-9031,Instructional Coordinators,detail,1910,16.5%,1.241,1.03,$53.56,$49.84,"$103,660",2.1%
+25-9044,"Teaching Assistants, Postsecondary",detail,360,2.2%,0.236,0.25,(4),(4),"$31,840",5.4%
+25-9045,"Teaching Assistants, Except Postsecondary",detail,18010,9.9%,11.709,1.28,(4),(4),"$36,250",1.8%
+25-9099,"Educational Instruction and Library Workers, All Other",detail,3720,12.1%,2.420,2.75,$19.47,$23.41,"$48,680",5.4%
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",major,11590,5.2%,7.535,0.55,$22.47,$27.25,"$56,680",2.9%
+27-1011,Art Directors,detail,180,22.0%,0.115,0.39,(8),(8),(8),(8)
+27-1014,Special Effects Artists and Animators,detail,90,38.1%,0.057,0.28,$29.56,$37.18,"$77,330",17.8%
+27-1019,"Artists and Related Workers, All Other",detail,50,27.8%,0.032,0.63,$37.75,$37.14,"$77,260",1.8%
+27-1021,Commercial and Industrial Designers,detail,170,18.9%,0.112,0.50,$30.17,$32.25,"$67,080",5.9%
+27-1022,Fashion Designers,detail,(8),(8),(8),(8),$32.64,$36.94,"$76,830",10.9%
+27-1023,Floral Designers,detail,300,16.6%,0.194,0.68,$15.59,$15.64,"$32,540",3.4%
+27-1024,Graphic Designers,detail,1530,10.5%,0.996,0.68,$20.96,$23.65,"$49,190",2.1%
+27-1025,Interior Designers,detail,300,26.6%,0.195,0.47,$26.34,$25.74,"$53,530",4.8%
+27-1026,Merchandise Displayers and Window Trimmers,detail,1480,14.3%,0.965,1.01,$14.73,$16.13,"$33,540",2.3%
+27-1027,Set and Exhibit Designers,detail,50,15.6%,0.031,0.38,$16.60,$24.69,"$51,360",29.0%
+27-1029,"Designers, All Other",detail,110,44.0%,0.070,0.97,$30.29,$36.45,"$75,810",14.0%
+27-2012,Producers and Directors,detail,240,16.1%,0.158,0.18,$37.76,$38.19,"$79,440",6.3%
+27-2022,Coaches and Scouts,detail,1580,12.3%,1.030,0.63,(4),(4),"$46,390",5.3%
+27-2023,"Umpires, Referees, and Other Sports Officials",detail,70,32.7%,0.047,0.35,(4),(4),"$38,030",11.0%
+27-2041,Music Directors and Composers,detail,80,41.3%,0.051,0.70,(8),(8),(8),(8)
+27-2042,Musicians and Singers,detail,180,31.0%,0.120,0.43,(8),(8),(8),(8)
+27-2090,"Miscellaneous Entertainers and Performers, Sports and Related Workers",broad,70,30.9%,0.044,0.41,$17.64,$18.65,(4),7.3%
+27-3011,Broadcast Announcers and Radio Disc Jockeys,detail,150,15.1%,0.095,0.48,$17.94,$30.95,"$64,370",28.8%
+27-3031,Public Relations Specialists,detail,1430,20.4%,0.929,0.56,$28.89,$30.83,"$64,130",2.8%
+27-3041,Editors,detail,210,21.4%,0.139,0.21,$28.89,$32.25,"$67,080",7.7%
+27-3042,Technical Writers,detail,240,21.0%,0.153,0.44,$35.73,$39.20,"$81,530",5.3%
+27-3043,Writers and Authors,detail,220,19.2%,0.143,0.46,$34.38,$36.32,"$75,550",4.3%
+27-3091,Interpreters and Translators,detail,490,14.1%,0.321,0.80,$26.22,$27.75,"$57,720",6.7%
+27-3092,Court Reporters and Simultaneous Captioners,detail,140,6.2%,0.094,0.95,$55.68,$53.61,"$111,500",2.6%
+27-3099,"Media and Communication Workers, All Other",detail,350,25.3%,0.230,1.34,$24.79,$25.76,"$53,580",13.9%
+27-4011,Audio and Video Technicians,detail,520,20.0%,0.336,0.67,$22.95,$24.79,"$51,560",6.8%
+27-4012,Broadcast Technicians,detail,70,38.2%,0.046,0.24,$30.48,$29.99,"$62,380",9.5%
+27-4021,Photographers,detail,450,21.1%,0.293,0.85,$19.13,$20.45,"$42,530",6.5%
+27-4031,"Camera Operators, Television, Video, and Film",detail,100,34.6%,0.063,0.43,$27.00,$27.75,"$57,710",8.0%
+27-4032,Film and Video Editors,detail,100,13.5%,0.065,0.34,(8),(8),(8),(8)
+27-4098,"Lighting Technicians and Media and Communication Equipment Workers, All Other",detail,130,13.0%,0.087,0.55,$35.24,$35.27,"$73,370",5.2%
+29-0000,Healthcare Practitioners and Technical Occupations,major,81960,2.8%,53.278,0.90,$42.70,$47.27,"$98,320",2.4%
+29-1021,"Dentists, General",detail,1480,15.5%,0.959,1.27,$57.39,$71.46,"$148,650",12.0%
+29-1031,Dietitians and Nutritionists,detail,820,10.4%,0.532,1.16,$34.98,$33.98,"$70,680",3.4%
+29-1041,Optometrists,detail,420,42.8%,0.273,1.02,$61.22,$63.92,"$132,960",8.4%
+29-1051,Pharmacists,detail,2980,11.7%,1.940,0.92,$71.65,$70.76,"$147,190",2.2%
+29-1071,Physician Assistants,detail,1200,14.6%,0.783,0.96,$62.38,$64.73,"$134,630",3.9%
+29-1081,Podiatrists,detail,100,15.6%,0.065,0.97,$51.23,$62.20,"$129,370",12.2%
+29-1122,Occupational Therapists,detail,670,14.1%,0.433,0.48,$50.79,$50.47,"$104,970",1.7%
+29-1123,Physical Therapists,detail,1300,12.7%,0.846,0.53,$48.85,$49.16,"$102,260",2.1%
+29-1124,Radiation Therapists,detail,80,13.7%,0.053,0.43,$55.38,$51.09,"$106,270",4.9%
+29-1125,Recreational Therapists,detail,170,12.1%,0.110,0.85,$41.31,$38.36,"$79,780",4.2%
+29-1126,Respiratory Therapists,detail,1800,10.0%,1.169,1.30,$35.33,$36.48,"$75,880",2.8%
+29-1127,Speech-Language Pathologists,detail,1010,11.1%,0.655,0.62,$43.75,$42.63,"$88,680",2.4%
+29-1128,Exercise Physiologists,detail,(8),(8),(8),(8),$92.94,$88.92,"$184,950",5.1%
+29-1129,"Therapists, All Other",detail,50,12.1%,0.032,0.39,$42.31,$41.35,"$86,020",5.6%
+29-1131,Veterinarians,detail,480,27.0%,0.313,0.62,$62.62,$70.74,"$147,140",14.8%
+29-1141,Registered Nurses,detail,29780,5.8%,19.355,0.95,$49.84,$50.75,"$105,570",2.2%
+29-1171,Nurse Practitioners,detail,1540,14.8%,1.002,0.73,$62.87,$67.60,"$140,600",4.6%
+29-1181,Audiologists,detail,60,47.6%,0.042,0.46,$45.09,$51.59,"$107,310",8.7%
+29-1215,Family Medicine Physicians,detail,760,23.1%,0.493,0.66,(5),$121.62,"$252,970",8.6%
+29-1216,General Internal Medicine Physicians,detail,190,25.7%,0.125,0.41,(5),$117.04,"$243,450",15.5%
+29-1221,"Pediatricians, General",detail,(8),(8),(8),(8),(5),$122.80,"$255,430",18.7%
+29-1223,Psychiatrists,detail,310,13.4%,0.204,1.17,(5),$135.77,"$282,400",11.1%
+29-1228,"Physicians, All Other; and Ophthalmologists, Except Pediatric",detail,3910,13.2%,2.542,0.96,$91.51,$97.52,"$202,840",8.0%
+29-1248,"Surgeons, Except Ophthalmologists",detail,360,38.6%,0.236,0.95,(5),$118.47,"$246,410",19.9%
+29-1292,Dental Hygienists,detail,1860,10.3%,1.211,0.80,$45.82,$50.96,"$105,990",9.8%
+29-1298,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",detail,120,10.2%,0.075,0.30,$34.37,$38.82,"$80,750",5.4%
+29-2010,Clinical Laboratory Technologists and Technicians,broad,1620,18.0%,1.051,0.47,$25.51,$28.76,"$59,820",2.1%
+29-2031,Cardiovascular Technologists and Technicians,detail,520,10.0%,0.341,0.89,$30.80,$32.75,"$68,130",3.1%
+29-2032,Diagnostic Medical Sonographers,detail,630,15.9%,0.408,0.82,$41.32,$43.03,"$89,490",3.1%
+29-2033,Nuclear Medicine Technologists,detail,140,12.3%,0.091,0.74,$48.14,$49.30,"$102,540",2.3%
+29-2034,Radiologic Technologists and Technicians,detail,1640,8.0%,1.068,0.76,$38.14,$38.66,"$80,410",2.3%
+29-2035,Magnetic Resonance Imaging Technologists,detail,240,17.7%,0.155,0.60,$44.10,$42.84,"$89,100",3.4%
+29-2040,Emergency Medical Technicians and Paramedics,broad,3180,8.4%,2.064,1.16,$17.97,$19.57,"$40,700",4.1%
+29-2051,Dietetic Technicians,detail,430,29.8%,0.282,1.42,$15.92,$16.65,"$34,640",4.0%
+29-2052,Pharmacy Technicians,detail,3950,9.4%,2.567,0.90,$18.71,$19.53,"$40,630",3.0%
+29-2053,Psychiatric Technicians,detail,1640,5.2%,1.066,1.99,$33.61,$31.54,"$65,610",5.3%
+29-2055,Surgical Technologists,detail,920,11.3%,0.600,0.81,$27.39,$27.65,"$57,510",1.9%
+29-2056,Veterinary Technologists and Technicians,detail,630,34.1%,0.406,0.54,$15.42,$18.04,"$37,520",11.4%
+29-2057,Ophthalmic Medical Technicians,detail,(8),(8),(8),(8),$16.96,$19.31,"$40,170",8.6%
+29-2061,Licensed Practical and Licensed Vocational Nurses,detail,7560,7.2%,4.916,1.04,$27.04,$28.13,"$58,520",3.0%
+29-2081,"Opticians, Dispensing",detail,780,12.2%,0.508,1.03,$17.95,$20.43,"$42,500",4.7%
+29-2091,Orthotists and Prosthetists,detail,120,25.7%,0.081,1.21,$39.14,$34.52,"$71,800",5.0%
+29-2092,Hearing Aid Specialists,detail,(8),(8),(8),(8),$28.50,$28.32,"$58,910",4.7%
+29-2098,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",detail,4550,12.4%,2.955,1.31,$20.93,$23.28,"$48,420",5.3%
+29-9091,Athletic Trainers,detail,100,25.2%,0.068,0.35,(4),(4),"$57,880",3.6%
+29-9098,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",detail,570,21.8%,0.373,1.01,$23.52,$29.02,"$60,360",6.5%
+31-0000,Healthcare Support Occupations,major,88130,3.3%,57.286,1.29,$12.72,$14.85,"$30,890",1.4%
+31-1120,Home Health and Personal Care Aides,broad,55890,4.9%,36.328,1.69,$12.10,$12.90,"$26,830",1.4%
+31-1131,Nursing Assistants,detail,7360,6.7%,4.787,0.50,$16.31,$16.45,"$34,220",1.7%
+31-1132,Orderlies,detail,500,18.4%,0.328,1.02,$22.93,$23.69,"$49,270",7.0%
+31-1133,Psychiatric Aides,detail,260,32.7%,0.167,0.44,$19.70,$20.83,"$43,320",10.7%
+31-2011,Occupational Therapy Assistants,detail,340,39.4%,0.224,0.73,$35.16,$35.98,"$74,850",2.0%
+31-2012,Occupational Therapy Aides,detail,(8),(8),(8),(8),$16.73,$15.82,"$32,900",10.8%
+31-2021,Physical Therapist Assistants,detail,530,24.0%,0.344,0.52,$35.04,$34.36,"$71,460",3.4%
+31-2022,Physical Therapist Aides,detail,510,31.7%,0.332,0.99,$13.71,$15.52,"$32,280",6.8%
+31-9011,Massage Therapists,detail,1460,26.8%,0.950,1.30,$17.53,$20.01,"$41,610",8.7%
+31-9091,Dental Assistants,detail,6050,5.6%,3.931,1.64,$17.45,$18.06,"$37,560",2.8%
+31-9092,Medical Assistants,detail,9550,7.8%,6.211,1.28,$15.90,$16.79,"$34,920",2.8%
+31-9093,Medical Equipment Preparers,detail,600,12.8%,0.389,1.00,$22.75,$22.75,"$47,320",3.2%
+31-9094,Medical Transcriptionists,detail,300,26.1%,0.197,0.52,$17.95,$19.52,"$40,590",7.1%
+31-9095,Pharmacy Aides,detail,960,35.8%,0.626,2.47,$12.40,$15.91,"$33,090",12.7%
+31-9096,Veterinary Assistants and Laboratory Animal Caretakers,detail,1060,17.4%,0.691,1.05,$15.53,$16.22,"$33,740",1.9%
+31-9097,Phlebotomists,detail,1420,18.9%,0.923,1.06,$20.97,$21.51,"$44,750",1.7%
+31-9099,"Healthcare Support Workers, All Other",detail,1270,13.7%,0.828,1.30,$22.42,$22.45,"$46,700",2.0%
+33-0000,Protective Service Occupations,major,40900,3.5%,26.584,1.12,$19.11,$26.69,"$55,500",8.1%
+33-1011,First-Line Supervisors of Correctional Officers,detail,620,4.5%,0.402,1.27,$49.96,$50.67,"$105,390",2.0%
+33-1012,First-Line Supervisors of Police and Detectives,detail,290,6.3%,0.189,0.23,$75.42,$74.74,"$155,450",2.8%
+33-1021,First-Line Supervisors of Firefighting and Prevention Workers,detail,270,4.7%,0.176,0.37,$51.72,$59.55,"$123,860",6.8%
+33-1090,"Miscellaneous First-Line Supervisors, Protective Service Workers",broad,1200,11.2%,0.779,1.39,$23.62,$24.66,"$51,290",5.3%
+33-2011,Firefighters,detail,2960,7.2%,1.927,0.87,$31.06,$32.43,"$67,450",2.1%
+33-2021,Fire Inspectors and Investigators,detail,60,13.7%,0.037,0.39,(8),(8),(8),(8)
+33-2022,Forest Fire Inspectors and Prevention Specialists,detail,60,5.8%,0.037,2.53,$34.78,$37.21,"$77,390",4.2%
+33-3012,Correctional Officers and Jailers,detail,5280,12.0%,3.432,1.19,$39.36,$38.14,"$79,330",2.7%
+33-3021,Detectives and Criminal Investigators,detail,970,0.5%,0.628,0.87,$48.91,$51.65,"$107,430",2.1%
+33-3041,Parking Enforcement Workers,detail,110,6.3%,0.069,1.32,$26.16,$25.15,"$52,300",3.8%
+33-3051,Police and Sheriff's Patrol Officers,detail,5630,2.7%,3.662,0.81,$48.89,$48.80,"$101,510",3.4%
+33-9011,Animal Control Workers,detail,180,7.9%,0.120,1.47,$25.06,$25.44,"$52,910",3.7%
+33-9021,Private Detectives and Investigators,detail,130,19.0%,0.085,0.36,$29.65,$30.05,"$62,510",3.6%
+33-9031,Gambling Surveillance Officers and Gambling Investigators,detail,(8),(8),(8),(8),$17.47,$19.58,"$40,730",7.9%
+33-9032,Security Guards,detail,18170,6.2%,11.808,1.54,$13.83,$14.99,"$31,180",2.4%
+33-9091,Crossing Guards and Flaggers,detail,430,39.3%,0.281,0.49,$17.11,$18.48,"$38,430",6.5%
+33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",detail,880,12.2%,0.571,0.58,$13.10,$13.44,"$27,960",1.4%
+33-9098,"School Bus Monitors and Protective Service Workers, All Other",detail,3140,15.3%,2.038,2.04,$14.39,$16.32,"$33,940",3.2%
+35-0000,Food Preparation and Serving Related Occupations,major,156380,1.4%,101.654,1.11,$12.41,$13.73,"$28,570",0.8%
+35-1011,Chefs and Head Cooks,detail,1040,19.5%,0.675,0.77,$29.25,$30.13,"$62,680",6.8%
+35-1012,First-Line Supervisors of Food Preparation and Serving Workers,detail,9900,8.1%,6.433,0.93,$16.28,$18.01,"$37,460",2.3%
+35-2011,"Cooks, Fast Food",detail,15140,7.4%,9.844,2.74,$12.21,$12.59,"$26,190",1.1%
+35-2012,"Cooks, Institution and Cafeteria",detail,2520,18.6%,1.641,0.60,$16.29,$17.46,"$36,310",3.4%
+35-2014,"Cooks, Restaurant",detail,14510,8.6%,9.430,0.99,$13.53,$13.87,"$28,850",1.2%
+35-2015,"Cooks, Short Order",detail,2360,26.7%,1.536,1.48,$12.43,$13.09,"$27,230",2.1%
+35-2019,"Cooks, All Other",detail,270,42.4%,0.176,1.34,$17.71,$20.38,"$42,400",6.4%
+35-2021,Food Preparation Workers,detail,9600,15.6%,6.238,1.06,$13.25,$13.67,"$28,440",1.3%
+35-3011,Bartenders,detail,5450,12.3%,3.542,0.80,$12.27,$13.39,"$27,850",2.7%
+35-3023,Fast Food and Counter Workers,detail,48750,4.8%,31.690,1.16,$12.16,$13.26,"$27,580",1.1%
+35-3031,Waiters and Waitresses,detail,23430,5.3%,15.230,0.87,$12.19,$13.61,"$28,310",2.7%
+35-3041,"Food Servers, Nonrestaurant",detail,1800,10.7%,1.173,0.62,$13.80,$14.64,"$30,460",1.9%
+35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers,detail,8280,14.1%,5.380,1.66,$11.80,$12.36,"$25,710",1.6%
+35-9021,Dishwashers,detail,7280,6.6%,4.731,1.35,$12.04,$12.30,"$25,580",1.0%
+35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",detail,4360,10.0%,2.832,0.98,$12.22,$12.56,"$26,120",1.3%
+35-9099,"Food Preparation and Serving Related Workers, All Other",detail,1680,25.0%,1.093,2.22,$12.76,$13.70,"$28,490",2.8%
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,major,46370,3.7%,30.144,1.00,$14.55,$16.52,"$34,370",1.7%
+37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers,detail,1080,14.9%,0.701,0.66,$22.99,$24.38,"$50,700",5.5%
+37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",detail,1080,8.9%,0.702,1.00,$24.80,$27.34,"$56,870",4.5%
+37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",detail,19130,8.2%,12.432,0.85,$15.06,$16.77,"$34,890",2.9%
+37-2012,Maids and Housekeeping Cleaners,detail,8660,8.2%,5.628,0.89,$13.12,$14.33,"$29,810",2.0%
+37-2021,Pest Control Workers,detail,1010,21.9%,0.656,1.21,$22.45,$22.57,"$46,950",9.2%
+37-3011,Landscaping and Groundskeeping Workers,detail,14380,5.2%,9.349,1.50,$13.93,$15.46,"$32,170",2.0%
+37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",detail,40,33.2%,0.025,0.14,$16.57,$21.12,"$43,930",19.6%
+37-3013,Tree Trimmers and Pruners,detail,(8),(8),(8),(8),$13.92,$15.22,"$31,650",5.2%
+37-3019,"Grounds Maintenance Workers, All Other",detail,240,46.0%,0.158,1.62,$18.20,$19.04,"$39,600",7.8%
+39-0000,Personal Care and Service Occupations,major,35260,4.7%,22.920,1.02,$13.54,$15.89,"$33,060",1.6%
+39-1013,First-Line Supervisors of Gambling Services Workers,detail,1290,20.5%,0.837,4.18,$29.16,$28.17,"$58,590",2.3%
+39-1098,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",detail,2770,15.9%,1.798,1.21,$18.78,$21.57,"$44,860",3.4%
+39-2011,Animal Trainers,detail,130,33.5%,0.082,0.72,$14.36,$15.61,"$32,460",3.9%
+39-2021,Animal Caretakers,detail,1940,15.1%,1.263,0.87,$13.07,$14.38,"$29,910",2.5%
+39-3011,Gambling Dealers,detail,2630,19.8%,1.711,2.54,$11.87,$12.71,"$26,440",2.7%
+39-3012,Gambling and Sports Book Writers and Runners,detail,100,24.9%,0.065,0.95,$14.60,$16.52,"$34,350",16.1%
+39-3019,"Gambling Service Workers, All Other",detail,(8),(8),(8),(8),$13.02,$14.91,"$31,000",5.0%
+39-3031,"Ushers, Lobby Attendants, and Ticket Takers",detail,980,11.6%,0.638,0.68,$11.96,$12.93,"$26,900",4.3%
+39-3091,Amusement and Recreation Attendants,detail,3410,10.7%,2.218,0.96,$12.19,$13.19,"$27,430",1.3%
+39-3092,Costume Attendants,detail,70,26.3%,0.043,0.86,$18.10,$24.18,"$50,300",12.9%
+39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",detail,250,18.3%,0.164,1.51,$15.93,$16.31,"$33,930",3.2%
+39-3099,"Entertainment Attendants and Related Workers, All Other",detail,(8),(8),(8),(8),$11.87,$13.22,"$27,500",3.6%
+39-4021,Funeral Attendants,detail,(8),(8),(8),(8),$14.48,$15.08,"$31,360",9.7%
+39-4031,"Morticians, Undertakers, and Funeral Arrangers",detail,(8),(8),(8),(8),$30.32,$36.49,"$75,900",19.7%
+39-5012,"Hairdressers, Hairstylists, and Cosmetologists",detail,2990,20.9%,1.945,0.74,$13.15,$14.78,"$30,750",5.0%
+39-5092,Manicurists and Pedicurists,detail,1830,34.5%,1.191,1.56,$13.00,$13.12,"$27,290",2.7%
+39-5094,Skincare Specialists,detail,740,18.5%,0.478,1.24,$15.60,$16.62,"$34,570",4.9%
+39-6011,Baggage Porters and Bellhops,detail,440,26.3%,0.288,1.06,$15.21,$15.82,"$32,910",3.0%
+39-6012,Concierges,detail,190,22.3%,0.124,0.44,$15.61,$16.32,"$33,940",4.0%
+39-7010,Tour and Travel Guides,broad,370,37.6%,0.241,0.73,$14.95,$15.32,"$31,870",4.3%
+39-9011,Childcare Workers,detail,6310,14.6%,4.099,1.07,$12.86,$14.29,"$29,730",3.5%
+39-9031,Exercise Trainers and Group Fitness Instructors,detail,3270,11.5%,2.125,0.96,$17.55,$20.77,"$43,200",6.0%
+39-9032,Recreation Workers,detail,3740,10.9%,2.429,0.99,$12.91,$13.68,"$28,440",1.6%
+39-9041,Residential Advisors,detail,660,23.1%,0.430,0.59,$14.38,$16.32,"$33,930",4.0%
+39-9098,"Crematory Operators and Personal Care and Service Workers, All Other",detail,380,40.9%,0.245,0.59,$14.46,$14.67,"$30,520",4.4%
+41-0000,Sales and Related Occupations,major,154620,2.0%,100.509,1.03,$14.54,$19.26,"$40,050",1.7%
+41-1011,First-Line Supervisors of Retail Sales Workers,detail,12020,5.5%,7.811,0.98,$20.66,$23.15,"$48,140",2.3%
+41-1012,First-Line Supervisors of Non-Retail Sales Workers,detail,1690,10.8%,1.099,0.65,$27.83,$30.45,"$63,330",2.5%
+41-2011,Cashiers,detail,48570,7.6%,31.570,1.29,$12.27,$13.65,"$28,390",1.6%
+41-2012,Gambling Change Persons and Booth Cashiers,detail,850,42.1%,0.551,3.80,$12.13,$13.10,"$27,250",2.2%
+41-2021,Counter and Rental Clerks,detail,7180,6.0%,4.668,1.67,$14.95,$17.63,"$36,670",2.8%
+41-2022,Parts Salespersons,detail,3020,14.2%,1.964,1.13,$18.05,$19.54,"$40,630",4.4%
+41-2031,Retail Salespersons,detail,44880,6.5%,29.174,0.99,$13.49,$15.56,"$32,360",2.3%
+41-3011,Advertising Sales Agents,detail,940,28.0%,0.613,0.69,$26.08,$29.44,"$61,240",8.6%
+41-3021,Insurance Sales Agents,detail,2740,8.1%,1.783,0.64,$20.58,$29.10,"$60,540",12.5%
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",detail,3100,12.1%,2.013,0.68,$23.77,$28.45,"$59,170",5.5%
+41-3041,Travel Agents,detail,210,24.5%,0.140,0.31,$22.51,$21.97,"$45,690",7.9%
+41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",detail,8830,8.1%,5.738,0.81,$21.86,$28.76,"$59,830",5.9%
+41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",detail,1160,18.2%,0.757,0.36,$38.09,$43.06,"$89,570",4.9%
+41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",detail,13360,5.3%,8.683,0.95,$28.23,$32.91,"$68,460",3.5%
+41-9011,Demonstrators and Product Promoters,detail,1350,14.3%,0.881,1.66,$18.94,$18.54,"$38,560",7.9%
+41-9021,Real Estate Brokers,detail,550,39.0%,0.358,1.23,$28.44,$39.45,"$82,050",29.1%
+41-9022,Real Estate Sales Agents,detail,720,30.3%,0.467,0.42,(8),(8),(8),(8)
+41-9031,Sales Engineers,detail,220,33.7%,0.144,0.33,$44.43,$43.31,"$90,080",5.2%
+41-9041,Telemarketers,detail,710,32.8%,0.462,0.50,$12.56,$13.50,"$28,080",2.3%
+41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",detail,(8),(8),(8),(8),$11.72,$11.94,"$24,830",2.8%
+41-9099,"Sales and Related Workers, All Other",detail,2370,10.7%,1.544,1.91,$16.55,$19.06,"$39,650",2.9%
+43-0000,Office and Administrative Support Occupations,major,183810,1.6%,119.480,0.90,$18.74,$20.35,"$42,320",0.5%
+43-1011,First-Line Supervisors of Office and Administrative Support Workers,detail,14840,3.2%,9.645,0.95,$27.24,$28.69,"$59,670",0.9%
+43-2011,"Switchboard Operators, Including Answering Service",detail,740,14.0%,0.479,1.03,$14.44,$15.75,"$32,750",2.7%
+43-2021,Telephone Operators,detail,50,37.4%,0.036,1.10,$19.57,$18.75,"$39,010",11.6%
+43-3011,Bill and Account Collectors,detail,1890,9.5%,1.231,0.77,$18.74,$20.09,"$41,780",2.4%
+43-3021,Billing and Posting Clerks,detail,3940,10.5%,2.562,0.81,$17.76,$18.21,"$37,870",1.5%
+43-3031,"Bookkeeping, Accounting, and Auditing Clerks",detail,13780,4.1%,8.956,0.87,$20.28,$21.54,"$44,810",1.1%
+43-3041,Gambling Cage Workers,detail,580,12.3%,0.376,3.85,$14.12,$15.16,"$31,540",2.7%
+43-3051,Payroll and Timekeeping Clerks,detail,1880,7.7%,1.221,1.26,$22.66,$23.18,"$48,210",1.3%
+43-3061,Procurement Clerks,detail,580,8.3%,0.375,0.83,$22.52,$22.31,"$46,410",1.8%
+43-3071,Tellers,detail,3150,8.2%,2.045,0.68,$16.13,$16.64,"$34,610",1.8%
+43-3099,"Financial Clerks, All Other",detail,220,31.0%,0.145,0.70,$22.05,$24.33,"$50,600",8.5%
+43-4011,Brokerage Clerks,detail,200,29.2%,0.127,0.39,$25.42,$24.73,"$51,430",3.3%
+43-4021,Correspondence Clerks,detail,(8),(8),(8),(8),$19.76,$19.73,"$41,040",2.3%
+43-4031,"Court, Municipal, and License Clerks",detail,1390,5.4%,0.906,0.86,$23.63,$23.74,"$49,370",2.7%
+43-4041,"Credit Authorizers, Checkers, and Clerks",detail,130,22.2%,0.087,0.48,$18.78,$19.84,"$41,270",3.5%
+43-4051,Customer Service Representatives,detail,17930,5.4%,11.657,0.59,$17.73,$18.96,"$39,430",2.0%
+43-4061,"Eligibility Interviewers, Government Programs",detail,2640,0.4%,1.717,1.80,$23.62,$23.93,"$49,780",3.8%
+43-4071,File Clerks,detail,1100,11.9%,0.715,1.03,$17.49,$18.55,"$38,570",3.3%
+43-4081,"Hotel, Motel, and Resort Desk Clerks",detail,2250,6.5%,1.465,0.80,$13.28,$13.69,"$28,480",1.6%
+43-4111,"Interviewers, Except Eligibility and Loan",detail,2300,12.7%,1.494,1.16,$18.39,$19.84,"$41,260",3.6%
+43-4121,"Library Assistants, Clerical",detail,710,13.9%,0.462,0.79,$16.59,$16.71,"$34,760",3.5%
+43-4131,Loan Interviewers and Clerks,detail,950,16.1%,0.619,0.44,$20.00,$21.19,"$44,080",2.9%
+43-4141,New Accounts Clerks,detail,180,44.2%,0.119,0.40,(8),(8),(8),(8)
+43-4151,Order Clerks,detail,2840,12.3%,1.846,1.98,$17.46,$18.26,"$37,980",2.5%
+43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",detail,1280,15.9%,0.832,1.04,$21.34,$21.22,"$44,140",1.7%
+43-4171,Receptionists and Information Clerks,detail,8370,7.8%,5.443,0.76,$14.61,$15.24,"$31,710",1.2%
+43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,detail,1170,26.3%,0.758,0.90,$15.58,$19.24,"$40,020",7.4%
+43-4199,"Information and Record Clerks, All Other",detail,1910,7.6%,1.240,1.18,$21.81,$21.70,"$45,140",2.5%
+43-5011,Cargo and Freight Agents,detail,1010,24.4%,0.655,1.00,$20.23,$21.80,"$45,340",10.9%
+43-5021,Couriers and Messengers,detail,920,36.9%,0.598,1.18,$14.09,$16.01,"$33,300",5.9%
+43-5031,Public Safety Telecommunicators,detail,830,5.3%,0.540,0.83,$30.09,$30.15,"$62,710",1.6%
+43-5032,"Dispatchers, Except Police, Fire, and Ambulance",detail,2180,9.3%,1.414,1.04,$18.02,$19.28,"$40,100",2.0%
+43-5041,"Meter Readers, Utilities",detail,330,30.3%,0.217,1.05,$27.20,$26.43,"$54,970",3.0%
+43-5051,Postal Service Clerks,detail,600,0.0%,0.389,0.70,$29.20,$26.58,"$55,280",2.2%
+43-5052,Postal Service Mail Carriers,detail,3190,0.0%,2.073,0.90,$30.47,$25.84,"$53,740",2.7%
+43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",detail,840,0.0%,0.543,0.78,$28.11,$23.97,"$49,870",2.3%
+43-5061,"Production, Planning, and Expediting Clerks",detail,4810,14.1%,3.126,1.24,$22.35,$23.79,"$49,480",1.1%
+43-5071,"Shipping, Receiving, and Inventory Clerks",detail,10850,7.4%,7.050,1.47,$16.53,$18.05,"$37,540",2.4%
+43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",detail,1540,16.3%,0.998,2.41,$15.79,$17.03,"$35,430",4.3%
+43-6011,Executive Secretaries and Executive Administrative Assistants,detail,3840,7.3%,2.497,0.68,$28.97,$30.26,"$62,940",1.4%
+43-6012,Legal Secretaries and Administrative Assistants,detail,1400,20.9%,0.910,0.79,$21.56,$22.88,"$47,590",12.1%
+43-6013,Medical Secretaries and Administrative Assistants,detail,8160,6.6%,5.301,1.29,$17.76,$18.58,"$38,640",2.3%
+43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",detail,19080,5.4%,12.399,0.89,$19.59,$20.14,"$41,890",1.3%
+43-9021,Data Entry Keyers,detail,1350,11.6%,0.877,0.81,$15.91,$15.90,"$33,070",1.2%
+43-9022,Word Processors and Typists,detail,550,14.5%,0.358,1.11,$21.02,$20.47,"$42,570",4.2%
+43-9031,Desktop Publishers,detail,40,46.0%,0.029,0.49,$19.87,$23.72,"$49,330",6.5%
+43-9041,Insurance Claims and Policy Processing Clerks,detail,2360,9.1%,1.532,0.88,$19.99,$20.69,"$43,040",3.4%
+43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service",detail,260,13.6%,0.170,0.30,$16.64,$16.74,"$34,820",2.2%
+43-9061,"Office Clerks, General",detail,27440,3.7%,17.836,0.89,$17.28,$18.04,"$37,520",1.3%
+43-9071,"Office Machine Operators, Except Computer",detail,610,35.6%,0.394,1.26,$18.83,$19.69,"$40,960",5.0%
+43-9081,Proofreaders and Copy Markers,detail,40,39.4%,0.027,0.52,$19.85,$21.37,"$44,440",4.9%
+43-9199,"Office and Administrative Support Workers, All Other",detail,4360,7.6%,2.831,2.21,$15.60,$16.64,"$34,620",4.5%
+45-0000,"Farming, Fishing, and Forestry Occupations",major,7690,6.6%,5.001,1.52,$12.00,$13.23,"$27,520",2.1%
+45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",detail,210,19.3%,0.136,0.89,$25.57,$25.79,"$53,650",6.5%
+45-2011,Agricultural Inspectors,detail,260,0.4%,0.172,1.84,$15.37,$18.50,"$38,470",3.5%
+45-2041,"Graders and Sorters, Agricultural Products",detail,520,46.3%,0.337,1.44,$11.97,$13.00,"$27,040",4.1%
+45-2091,Agricultural Equipment Operators,detail,420,1.7%,0.270,1.47,$13.52,$13.40,"$27,860",6.4%
+45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",detail,5910,9.9%,3.838,1.91,$11.84,$12.14,"$25,250",1.7%
+45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",detail,180,13.2%,0.118,0.47,$19.92,$20.55,"$42,740",6.6%
+45-2099,"Agricultural Workers, All Other",detail,(8),(8),(8),(8),$20.87,$21.05,"$43,770",13.7%
+47-0000,Construction and Extraction Occupations,major,82200,2.4%,53.430,1.27,$25.00,$26.92,"$55,990",1.3%
+47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,detail,6670,5.6%,4.333,1.02,$30.84,$33.70,"$70,090",2.0%
+47-2021,Brickmasons and Blockmasons,detail,620,32.5%,0.400,0.97,$25.95,$26.17,"$54,440",8.5%
+47-2031,Carpenters,detail,15440,7.7%,10.039,2.01,$24.00,$25.55,"$53,150",3.4%
+47-2041,Carpet Installers,detail,340,49.2%,0.222,1.26,$14.98,$17.79,"$37,010",11.6%
+47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",detail,550,34.3%,0.355,3.20,$25.99,$25.85,"$53,770",10.7%
+47-2051,Cement Masons and Concrete Finishers,detail,4530,12.4%,2.942,2.20,$28.20,$29.26,"$60,850",4.1%
+47-2061,Construction Laborers,detail,11420,7.0%,7.420,1.07,$20.04,$23.49,"$48,850",2.5%
+47-2071,"Paving, Surfacing, and Tamping Equipment Operators",detail,510,31.7%,0.330,1.06,$24.00,$25.62,"$53,280",11.1%
+47-2073,Operating Engineers and Other Construction Equipment Operators,detail,4020,7.8%,2.611,0.95,$40.10,$37.28,"$77,550",3.1%
+47-2081,Drywall and Ceiling Tile Installers,detail,4310,11.9%,2.805,4.00,$23.67,$27.84,"$57,900",5.5%
+47-2082,Tapers,detail,1090,28.6%,0.707,5.78,$30.45,$32.67,"$67,960",6.1%
+47-2111,Electricians,detail,7530,7.6%,4.897,1.04,$23.37,$25.52,"$53,080",3.8%
+47-2121,Glaziers,detail,470,39.7%,0.308,0.86,(8),(8),(8),(8)
+47-2141,"Painters, Construction and Maintenance",detail,3840,14.4%,2.494,1.57,$19.17,$21.02,"$43,710",4.8%
+47-2151,Pipelayers,detail,480,43.0%,0.310,1.26,$28.42,$28.61,"$59,510",6.1%
+47-2152,"Plumbers, Pipefitters, and Steamfitters",detail,4640,12.5%,3.014,1.00,$26.51,$27.40,"$57,000",6.0%
+47-2161,Plasterers and Stucco Masons,detail,1090,27.5%,0.710,3.81,$23.56,$25.46,"$52,950",8.2%
+47-2181,Roofers,detail,1740,15.8%,1.131,1.28,$25.66,$25.27,"$52,570",2.6%
+47-2211,Sheet Metal Workers,detail,1300,27.7%,0.847,0.95,$28.42,$28.24,"$58,730",5.0%
+47-2221,Structural Iron and Steel Workers,detail,1480,21.7%,0.960,1.84,$32.38,$30.86,"$64,190",5.1%
+47-2231,Solar Photovoltaic Installers,detail,510,39.1%,0.328,4.35,$18.77,$20.92,"$43,520",4.7%
+47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",detail,430,35.4%,0.281,1.76,$22.40,$22.53,"$46,850",6.1%
+47-3012,Helpers--Carpenters,detail,400,45.6%,0.262,1.17,$17.66,$18.18,"$37,810",4.8%
+47-3013,Helpers--Electricians,detail,1300,30.4%,0.844,1.56,$17.34,$18.22,"$37,890",4.6%
+47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",detail,210,45.0%,0.135,0.34,$16.26,$17.12,"$35,600",8.7%
+47-3019,"Helpers, Construction Trades, All Other",detail,410,33.9%,0.267,1.37,$18.58,$18.46,"$38,390",5.1%
+47-4011,Construction and Building Inspectors,detail,1260,13.9%,0.817,1.09,$41.48,$40.72,"$84,700",3.9%
+47-4031,Fence Erectors,detail,490,48.0%,0.321,1.82,$19.05,$28.01,"$58,270",16.4%
+47-4041,Hazardous Materials Removal Workers,detail,(8),(8),(8),(8),$19.57,$22.01,"$45,780",3.3%
+47-4051,Highway Maintenance Workers,detail,410,2.2%,0.269,0.26,$21.96,$24.29,"$50,520",3.0%
+47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,detail,240,38.4%,0.159,0.78,$19.07,$20.98,"$43,640",5.9%
+47-5022,"Excavating and Loading Machine and Dragline Operators, Surface Mining",detail,260,45.7%,0.169,0.56,$25.31,$27.12,"$56,410",11.5%
+47-5041,Continuous Mining Machine Operators,detail,150,5.7%,0.096,0.96,$27.62,$27.63,"$57,470",3.9%
+47-5081,Helpers--Extraction Workers,detail,(8),(8),(8),(8),$16.18,$17.40,"$36,200",2.6%
+47-5097,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",detail,380,18.3%,0.246,1.45,$23.54,$24.04,"$50,010",3.7%
+49-0000,"Installation, Maintenance, and Repair Occupations",major,59480,2.7%,38.662,0.99,$22.67,$24.48,"$50,920",1.2%
+49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",detail,4180,5.2%,2.716,0.82,$35.71,$36.50,"$75,920",1.9%
+49-2011,"Computer, Automated Teller, and Office Machine Repairers",detail,650,20.9%,0.421,0.63,$18.68,$19.99,"$41,580",4.7%
+49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers",detail,(8),(8),(8),(8),$28.76,$29.21,"$60,750",25.3%
+49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",detail,2920,17.5%,1.897,1.34,$26.67,$25.57,"$53,180",3.8%
+49-2091,Avionics Technicians,detail,160,46.5%,0.101,0.68,$33.25,$33.25,"$69,170",5.1%
+49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment",detail,190,24.9%,0.125,1.88,$28.66,$29.65,"$61,680",4.9%
+49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",detail,550,25.5%,0.360,0.90,$31.53,$31.52,"$65,570",4.3%
+49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",detail,150,20.8%,0.099,0.64,$47.05,$46.74,"$97,210",4.0%
+49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles",detail,30,46.6%,0.022,0.31,$21.94,$21.75,"$45,240",4.3%
+49-2097,Audiovisual Equipment Installers and Repairers,detail,80,46.8%,0.052,0.30,$21.53,$20.64,"$42,930",7.9%
+49-2098,Security and Fire Alarm Systems Installers,detail,800,30.4%,0.517,1.06,$21.57,$23.48,"$48,830",6.3%
+49-3011,Aircraft Mechanics and Service Technicians,detail,840,14.1%,0.546,0.60,$34.16,$35.90,"$74,670",6.4%
+49-3021,Automotive Body and Related Repairers,detail,1230,18.0%,0.797,0.81,$18.82,$20.70,"$43,050",8.1%
+49-3022,Automotive Glass Installers and Repairers,detail,580,39.0%,0.375,2.84,$13.64,$16.36,"$34,030",15.3%
+49-3023,Automotive Service Technicians and Mechanics,detail,9480,9.1%,6.162,1.38,$20.39,$21.84,"$45,430",3.0%
+49-3031,Bus and Truck Mechanics and Diesel Engine Specialists,detail,3640,10.8%,2.364,1.30,$23.82,$24.53,"$51,030",2.5%
+49-3041,Farm Equipment Mechanics and Service Technicians,detail,(8),(8),(8),(8),$24.82,$27.13,"$56,430",8.4%
+49-3042,"Mobile Heavy Equipment Mechanics, Except Engines",detail,1660,9.5%,1.080,1.07,$30.62,$31.69,"$65,920",2.3%
+49-3051,Motorboat Mechanics and Service Technicians,detail,310,46.0%,0.199,1.28,$19.88,$19.94,"$41,470",5.7%
+49-3052,Motorcycle Mechanics,detail,260,28.6%,0.172,1.62,$23.72,$25.45,"$52,930",7.0%
+49-3053,Outdoor Power Equipment and Other Small Engine Mechanics,detail,400,31.5%,0.258,1.18,$18.75,$20.13,"$41,860",5.5%
+49-3091,Bicycle Repairers,detail,(8),(8),(8),(8),$14.38,$15.54,"$32,320",10.3%
+49-3092,Recreational Vehicle Service Technicians,detail,420,44.0%,0.273,2.57,$17.46,$19.06,"$39,640",9.7%
+49-3093,Tire Repairers and Changers,detail,1690,29.3%,1.098,1.45,$14.02,$14.82,"$30,830",3.7%
+49-9011,Mechanical Door Repairers,detail,380,35.0%,0.246,1.57,$23.56,$25.70,"$53,450",5.5%
+49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door",detail,490,28.6%,0.316,0.89,$32.91,$33.31,"$69,290",3.9%
+49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",detail,3750,18.0%,2.437,1.05,$20.42,$23.37,"$48,600",4.5%
+49-9031,Home Appliance Repairers,detail,460,19.9%,0.297,1.40,$22.39,$22.18,"$46,130",2.6%
+49-9041,Industrial Machinery Mechanics,detail,2880,9.1%,1.869,0.71,$30.12,$30.07,"$62,540",1.4%
+49-9043,"Maintenance Workers, Machinery",detail,1090,12.2%,0.706,1.42,$24.16,$26.36,"$54,830",4.9%
+49-9044,Millwrights,detail,100,48.8%,0.064,0.20,$35.71,$35.92,"$74,710",9.9%
+49-9051,Electrical Power-Line Installers and Repairers,detail,1000,11.3%,0.649,0.85,$42.86,$43.29,"$90,050",3.1%
+49-9052,Telecommunications Line Installers and Repairers,detail,1150,48.6%,0.745,0.90,$25.79,$27.67,"$57,550",8.4%
+49-9062,Medical Equipment Repairers,detail,530,23.7%,0.343,1.09,$23.16,$25.19,"$52,400",4.8%
+49-9063,Musical Instrument Repairers and Tuners,detail,(8),(8),(8),(8),$15.85,$15.50,"$32,240",6.9%
+49-9069,"Precision Instrument and Equipment Repairers, All Other",detail,150,35.3%,0.098,1.36,$33.44,$32.32,"$67,220",5.8%
+49-9071,"Maintenance and Repair Workers, General",detail,12720,3.8%,8.269,0.86,$19.72,$21.07,"$43,820",1.3%
+49-9081,Wind Turbine Service Technicians,detail,80,40.4%,0.054,1.33,$33.25,$32.47,"$67,530",6.5%
+49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers",detail,410,13.6%,0.267,1.25,$15.30,$16.74,"$34,820",4.3%
+49-9094,Locksmiths and Safe Repairers,detail,(8),(8),(8),(8),$23.85,$23.70,"$49,300",13.6%
+49-9098,"Helpers--Installation, Maintenance, and Repair Workers",detail,1060,19.1%,0.686,1.01,$14.63,$15.15,"$31,520",1.9%
+49-9099,"Installation, Maintenance, and Repair Workers, All Other",detail,2150,13.6%,1.396,1.27,$18.06,$19.67,"$40,910",3.2%
+51-0000,Production Occupations,major,79110,2.5%,51.424,0.82,$15.90,$18.71,"$38,910",0.9%
+51-1011,First-Line Supervisors of Production and Operating Workers,detail,4550,4.0%,2.958,0.69,$29.77,$32.07,"$66,710",1.1%
+51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",detail,(8),(8),(8),(8),$16.81,$19.21,"$39,960",8.6%
+51-2021,"Coil Winders, Tapers, and Finishers",detail,(8),(8),(8),(8),$17.72,$18.53,"$38,550",8.9%
+51-2028,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",detail,2470,17.5%,1.606,0.83,$15.82,$18.41,"$38,290",3.5%
+51-2041,Structural Metal Fabricators and Fitters,detail,710,24.4%,0.464,0.89,$17.71,$18.98,"$39,470",4.5%
+51-2051,Fiberglass Laminators and Fabricators,detail,300,36.3%,0.197,1.45,$17.48,$17.70,"$36,820",4.8%
+51-2090,Miscellaneous Assemblers and Fabricators,broad,11460,8.1%,7.447,0.80,$13.86,$14.77,"$30,720",1.1%
+51-3011,Bakers,detail,1160,13.5%,0.752,0.60,$14.14,$15.27,"$31,760",1.7%
+51-3021,Butchers and Meat Cutters,detail,1740,22.2%,1.131,1.21,$18.04,$18.27,"$38,000",5.0%
+51-3022,"Meat, Poultry, and Fish Cutters and Trimmers",detail,450,29.4%,0.294,0.28,$13.76,$14.33,"$29,800",6.3%
+51-3023,Slaughterers and Meat Packers,detail,(8),(8),(8),(8),$13.99,$14.46,"$30,070",2.8%
+51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",detail,250,30.8%,0.165,1.16,$16.29,$16.33,"$33,960",2.5%
+51-3092,Food Batchmakers,detail,1100,19.1%,0.715,0.66,$13.74,$15.71,"$32,680",4.6%
+51-3093,Food Cooking Machine Operators and Tenders,detail,270,46.1%,0.177,0.86,$14.47,$15.27,"$31,770",2.9%
+51-3099,"Food Processing Workers, All Other",detail,(8),(8),(8),(8),$13.48,$13.49,"$28,060",3.2%
+51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",detail,940,23.3%,0.610,1.16,$14.68,$16.04,"$33,360",4.4%
+51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",detail,(8),(8),(8),(8),$19.11,$19.56,"$40,680",3.2%
+51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",detail,280,19.9%,0.185,0.84,$20.98,$20.86,"$43,380",3.9%
+51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",detail,2010,17.6%,1.306,0.98,$17.41,$18.56,"$38,600",3.8%
+51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",detail,140,21.9%,0.094,1.27,$17.07,$18.52,"$38,530",7.2%
+51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",detail,910,29.0%,0.589,1.13,$14.33,$16.12,"$33,520",3.8%
+51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",detail,310,21.2%,0.202,1.05,$18.67,$20.48,"$42,600",5.7%
+51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",detail,280,36.7%,0.179,1.41,$18.06,$19.30,"$40,140",2.7%
+51-4041,Machinists,detail,3270,8.3%,2.123,0.81,$18.38,$20.22,"$42,050",3.6%
+51-4051,Metal-Refining Furnace Operators and Tenders,detail,160,23.9%,0.102,0.88,$17.23,$18.16,"$37,780",6.3%
+51-4052,"Pourers and Casters, Metal",detail,80,46.0%,0.053,0.97,$21.52,$21.41,"$44,540",7.1%
+51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",detail,2500,21.9%,1.623,1.38,$15.46,$17.65,"$36,710",2.9%
+51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",detail,730,22.6%,0.472,0.47,$15.55,$17.22,"$35,820",4.8%
+51-4111,Tool and Die Makers,detail,430,16.8%,0.281,0.58,$23.93,$25.84,"$53,750",4.8%
+51-4121,"Welders, Cutters, Solderers, and Brazers",detail,3500,12.2%,2.274,0.81,$18.71,$20.19,"$42,000",1.6%
+51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",detail,220,27.6%,0.145,0.61,$15.83,$17.48,"$36,350",8.4%
+51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",detail,110,38.7%,0.069,0.52,$17.43,$19.08,"$39,690",5.7%
+51-4192,"Layout Workers, Metal and Plastic",detail,(8),(8),(8),(8),$20.35,$22.24,"$46,260",12.4%
+51-4193,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",detail,290,18.2%,0.191,0.67,$15.43,$17.73,"$36,870",6.2%
+51-4199,"Metal Workers and Plastic Workers, All Other",detail,230,14.4%,0.151,0.91,$15.57,$17.52,"$36,440",5.9%
+51-5111,Prepress Technicians and Workers,detail,150,23.3%,0.100,0.49,$18.11,$19.60,"$40,780",4.4%
+51-5112,Printing Press Operators,detail,1150,12.5%,0.748,0.63,$17.83,$18.73,"$38,960",3.2%
+51-5113,Print Binding and Finishing Workers,detail,220,42.4%,0.141,0.46,$14.01,$15.78,"$32,820",9.9%
+51-6011,Laundry and Dry-Cleaning Workers,detail,1230,17.6%,0.800,0.56,$13.09,$13.56,"$28,190",2.0%
+51-6021,"Pressers, Textile, Garment, and Related Materials",detail,420,28.5%,0.274,1.06,$12.27,$12.66,"$26,340",2.4%
+51-6031,Sewing Machine Operators,detail,920,19.3%,0.595,0.66,$13.91,$14.41,"$29,980",2.2%
+51-6041,Shoe and Leather Workers and Repairers,detail,(8),(8),(8),(8),$14.43,$14.88,"$30,960",4.3%
+51-6051,"Sewers, Hand",detail,(8),(8),(8),(8),$16.87,$16.29,"$33,870",3.2%
+51-6052,"Tailors, Dressmakers, and Custom Sewers",detail,270,45.4%,0.174,1.06,$14.49,$17.41,"$36,220",14.1%
+51-6062,"Textile Cutting Machine Setters, Operators, and Tenders",detail,110,42.4%,0.073,0.81,$13.96,$14.42,"$29,990",5.2%
+51-6093,Upholsterers,detail,310,32.9%,0.200,1.00,$15.56,$16.38,"$34,080",4.1%
+51-6099,"Textile, Apparel, and Furnishings Workers, All Other",detail,160,47.2%,0.106,0.86,$16.31,$16.67,"$34,670",8.6%
+51-7011,Cabinetmakers and Bench Carpenters,detail,1140,20.8%,0.744,1.10,$13.47,$14.52,"$30,200",3.4%
+51-7021,Furniture Finishers,detail,120,26.4%,0.076,0.69,$13.85,$14.82,"$30,820",3.4%
+51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood",detail,440,40.2%,0.288,0.83,$13.79,$14.19,"$29,510",3.3%
+51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",detail,860,15.2%,0.560,1.04,$14.03,$14.92,"$31,030",5.1%
+51-7099,"Woodworkers, All Other",detail,(8),(8),(8),(8),$23.62,$22.00,"$45,760",12.8%
+51-8012,Power Distributors and Dispatchers,detail,180,35.4%,0.114,1.56,$46.06,$47.25,"$98,290",3.6%
+51-8013,Power Plant Operators,detail,310,31.0%,0.200,0.87,$43.00,$42.69,"$88,800",2.3%
+51-8021,Stationary Engineers and Boiler Operators,detail,260,20.3%,0.170,0.77,$35.65,$34.26,"$71,260",1.9%
+51-8031,Water and Wastewater Treatment Plant and System Operators,detail,1460,9.5%,0.951,1.13,$33.56,$34.24,"$71,230",2.4%
+51-8092,Gas Plant Operators,detail,70,25.5%,0.049,0.50,$49.49,$49.58,"$103,120",2.1%
+51-8099,"Plant and System Operators, All Other",detail,320,24.5%,0.205,2.32,$30.90,$33.27,"$69,200",1.8%
+51-9011,Chemical Equipment Operators and Tenders,detail,200,36.8%,0.131,0.22,$17.84,$20.01,"$41,630",5.3%
+51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",detail,330,20.4%,0.214,0.61,$20.09,$22.22,"$46,210",4.6%
+51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",detail,340,22.5%,0.221,0.97,$14.46,$16.85,"$35,060",5.9%
+51-9022,"Grinding and Polishing Workers, Hand",detail,300,24.7%,0.197,0.99,$15.94,$17.31,"$36,000",6.2%
+51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders",detail,1260,12.7%,0.820,0.96,$16.80,$18.14,"$37,730",3.3%
+51-9031,"Cutters and Trimmers, Hand",detail,(8),(8),(8),(8),$17.08,$16.94,"$35,230",4.3%
+51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders",detail,(8),(8),(8),(8),$13.43,$15.39,"$32,000",4.6%
+51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",detail,610,21.6%,0.396,0.81,$15.75,$16.83,"$35,010",4.4%
+51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",detail,120,26.8%,0.076,0.59,$21.13,$20.18,"$41,980",4.1%
+51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",detail,4730,5.8%,3.077,0.78,$17.85,$19.73,"$41,040",1.3%
+51-9071,Jewelers and Precious Stone and Metal Workers,detail,(8),(8),(8),(8),$18.27,$18.56,"$38,610",6.0%
+51-9081,Dental Laboratory Technicians,detail,(8),(8),(8),(8),$19.44,$19.45,"$40,460",4.8%
+51-9082,Medical Appliance Technicians,detail,70,40.9%,0.044,0.46,(8),(8),(8),(8)
+51-9083,Ophthalmic Laboratory Technicians,detail,290,33.4%,0.187,0.94,$19.44,$19.36,"$40,270",6.9%
+51-9111,Packaging and Filling Machine Operators and Tenders,detail,4850,11.1%,3.150,1.18,$14.01,$15.72,"$32,700",2.6%
+51-9123,"Painting, Coating, and Decorating Workers",detail,260,26.9%,0.166,1.96,$13.74,$16.34,"$33,980",10.9%
+51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",detail,1420,15.9%,0.922,0.93,$15.32,$17.17,"$35,710",2.9%
+51-9151,Photographic Process Workers and Processing Machine Operators,detail,(8),(8),(8),(8),$17.46,$19.52,"$40,600",2.7%
+51-9161,Computer Numerically Controlled Tool Operators,detail,930,16.4%,0.604,0.58,$18.39,$19.36,"$40,260",3.0%
+51-9162,Computer Numerically Controlled Tool Programmers,detail,260,18.6%,0.170,0.97,$32.19,$31.47,"$65,460",4.3%
+51-9191,Adhesive Bonding Machine Operators and Tenders,detail,110,22.2%,0.075,0.79,$16.00,$17.33,"$36,040",6.4%
+51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",detail,90,25.8%,0.060,0.54,$14.30,$17.18,"$35,740",5.3%
+51-9193,Cooling and Freezing Equipment Operators and Tenders,detail,340,33.4%,0.221,3.72,$19.22,$19.42,"$40,390",3.4%
+51-9194,Etchers and Engravers,detail,(8),(8),(8),(8),$15.22,$17.58,"$36,570",5.8%
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",detail,750,23.0%,0.487,1.59,$16.76,$17.76,"$36,940",5.1%
+51-9196,"Paper Goods Machine Setters, Operators, and Tenders",detail,780,19.0%,0.508,0.74,$14.99,$15.50,"$32,230",4.0%
+51-9198,Helpers--Production Workers,detail,2580,11.6%,1.675,0.81,$13.47,$14.45,"$30,060",1.5%
+51-9199,"Production Workers, All Other",detail,3660,15.5%,2.376,1.57,$14.17,$18.08,"$37,600",5.5%
+53-0000,Transportation and Material Moving Occupations,major,207620,2.5%,134.958,1.58,$15.92,$17.96,"$37,350",1.2%
+53-1047,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",detail,8310,5.4%,5.403,1.74,$27.10,$27.79,"$57,810",1.2%
+53-2022,Airfield Operations Specialists,detail,(8),(8),(8),(8),$24.47,$24.37,"$50,700",2.7%
+53-3031,Driver/Sales Workers,detail,5350,19.4%,3.476,1.15,$15.91,$17.64,"$36,690",6.1%
+53-3032,Heavy and Tractor-Trailer Truck Drivers,detail,25300,5.7%,16.443,1.30,$22.94,$23.93,"$49,770",2.1%
+53-3033,Light Truck Drivers,detail,13020,10.3%,8.465,1.35,$18.74,$20.66,"$42,980",4.3%
+53-3052,"Bus Drivers, Transit and Intercity",detail,1360,6.8%,0.886,0.73,$20.28,$19.81,"$41,200",4.5%
+53-3058,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",detail,5320,9.8%,3.457,0.73,$18.75,$18.75,"$38,990",2.6%
+53-3099,"Motor Vehicle Operators, All Other",detail,590,30.6%,0.381,0.99,$24.20,$23.95,"$49,810",2.1%
+53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers",detail,50,37.3%,0.031,0.85,$20.77,$21.77,"$45,280",4.3%
+53-6021,Parking Attendants,detail,1040,17.1%,0.673,0.67,$12.66,$13.40,"$27,870",1.8%
+53-6031,Automotive and Watercraft Service Attendants,detail,800,24.1%,0.521,0.65,$14.45,$15.15,"$31,500",3.8%
+53-6051,Transportation Inspectors,detail,200,11.2%,0.132,0.65,$29.33,$32.24,"$67,060",4.0%
+53-6061,Passenger Attendants,detail,(8),(8),(8),(8),$14.99,$16.95,"$35,250",5.2%
+53-6098,"Aircraft Service Attendants and Transportation Workers, All Other",detail,(8),(8),(8),(8),$17.85,$18.22,"$37,900",6.3%
+53-7011,Conveyor Operators and Tenders,detail,(8),(8),(8),(8),$17.89,$17.62,"$36,660",5.2%
+53-7021,Crane and Tower Operators,detail,(8),(8),(8),(8),$15.42,$19.43,"$40,420",17.7%
+53-7051,Industrial Truck and Tractor Operators,detail,16290,10.1%,10.588,2.47,$17.40,$18.02,"$37,490",1.3%
+53-7061,Cleaners of Vehicles and Equipment,detail,5800,12.9%,3.767,1.45,$12.22,$13.71,"$28,530",2.6%
+53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",detail,54500,5.1%,35.429,1.76,$14.80,$16.05,"$33,390",1.3%
+53-7063,Machine Feeders and Offbearers,detail,1970,24.9%,1.284,2.98,$15.26,$15.95,"$33,180",3.8%
+53-7064,"Packers and Packagers, Hand",detail,13320,31.0%,8.657,2.01,$11.98,$13.30,"$27,660",3.3%
+53-7065,Stockers and Order Fillers,detail,49850,10.2%,32.406,2.23,$14.37,$15.33,"$31,890",1.1%
+53-7081,Refuse and Recyclable Material Collectors,detail,680,39.0%,0.443,0.54,$25.82,$26.85,"$55,860",6.3%
+53-7199,"Material Moving Workers, All Other",detail,1140,13.5%,0.741,3.86,$14.33,$15.45,"$32,130",5.0%

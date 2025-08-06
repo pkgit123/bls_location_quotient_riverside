@@ -1,0 +1,674 @@
+Rank,Occupation,Location_Quotient,Category
+1,Plasterers and Stucco Masons (47-2161),5.8,Very High Concentration
+2,Gambling Change Persons and Booth Cashiers (41-2012),5.05,Very High Concentration
+3,"Material Moving Workers, All Other (53-7199)",4.89,Very High Concentration
+4,Tapers (47-2082),4.64,Very High Concentration
+5,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons (47-3014)",4.37,Very High Concentration
+6,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters (47-3011)",4.0,Very High Concentration
+7,Industrial Truck and Tractor Operators (53-7051),3.98,Very High Concentration
+8,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping (43-5111)",3.97,Very High Concentration
+9,Drywall and Ceiling Tile Installers (47-2081),3.86,Very High Concentration
+10,Solar Photovoltaic Installers (47-2231),3.61,Very High Concentration
+11,"Food Preparation and Serving Related Workers, All Other (35-9099)",3.57,Very High Concentration
+12,Reinforcing Iron and Rebar Workers (47-2171),3.24,Very High Concentration
+13,"Protective Service Workers, All Other (33-9099)",3.22,Very High Concentration
+14,Gaming Surveillance Officers and Gambling Investigators (33-9031),3.13,Very High Concentration
+15,Marriage and Family Therapists (21-1013),3.03,Very High Concentration
+16,"Counselors, All Other (21-1019)",2.93,Very High Concentration
+17,First-Line Supervisors of Gambling Services Workers (39-1013),2.86,Very High Concentration
+18,Gambling Dealers (39-3011),2.83,Very High Concentration
+19,"Substitute Teachers, Short-Term (25-3031)",2.79,Very High Concentration
+20,Gambling Managers (11-9071),2.75,Very High Concentration
+21,Manicurists and Pedicurists (39-5092),2.72,Very High Concentration
+22,Aircraft Cargo Handling Supervisors (53-1041),2.72,Very High Concentration
+23,Agricultural Equipment Operators (45-2091),2.65,Very High Concentration
+24,Conveyor Operators and Tenders (53-7011),2.57,Very High Concentration
+25,"Locker Room, Coatroom, and Dressing Room Attendants (39-3093)",2.44,Very High Concentration
+26,"Media and Communication Equipment Workers, All Other (27-4099)",2.39,Very High Concentration
+27,"Shipping, Receiving, and Inventory Clerks (43-5071)",2.37,Very High Concentration
+28,"Cooks, Fast Food (35-2011)",2.36,Very High Concentration
+29,Dancers (27-2031),2.36,Very High Concentration
+30,"Floor Layers, Except Carpet, Wood, and Hard Tiles (47-2042)",2.33,Very High Concentration
+31,"Laborers and Freight, Stock, and Material Movers, Hand (53-7062)",2.31,Very High Concentration
+32,Word Processors and Typists (43-9022),2.28,Very High Concentration
+33,Judicial Law Clerks (23-1012),2.24,Very High Concentration
+34,"Sales and Related Workers, All Other (41-9099)",2.22,Very High Concentration
+35,Tutors (25-3041),2.16,Very High Concentration
+36,"Grounds Maintenance Workers, All Other (37-3019)",2.15,Very High Concentration
+37,Cement Masons and Concrete Finishers (47-2051),2.12,Very High Concentration
+38,Tile and Stone Setters (47-2044),2.1,Very High Concentration
+39,Fence Erectors (47-4031),2.09,Very High Concentration
+40,"Woodworkers, All Other (51-7099)",2.07,Very High Concentration
+41,"Packers and Packagers, Hand (53-7064)",2.06,Very High Concentration
+42,Home Health and Personal Care Aides (31-1120),2.06,Very High Concentration
+43,Demonstrators and Product Promoters (41-9011),2.04,Very High Concentration
+44,Carpenters (47-2031),2.02,Very High Concentration
+45,"Postsecondary Teachers, All Other (25-1199)",2.01,Very High Concentration
+46,"Grinding and Polishing Workers, Hand (51-9022)",2.0,High Concentration
+47,Gambling Cage Workers (43-3041),1.97,High Concentration
+48,"Agricultural Workers, All Other (45-2099)",1.97,High Concentration
+49,"Educational Instruction and Library Workers, All Other (25-9099)",1.96,High Concentration
+50,"Metal Workers and Plastic Workers, All Other (51-4199)",1.91,High Concentration
+51,"Precision Instrument and Equipment Repairers, All Other (49-9069)",1.89,High Concentration
+52,"Transportation, Storage, and Distribution Managers (11-3071)",1.89,High Concentration
+53,Heavy and Tractor-Trailer Truck Drivers (53-3032),1.88,High Concentration
+54,Structural Iron and Steel Workers (47-2221),1.87,High Concentration
+55,"Special Education Teachers, All Other (25-2059)",1.86,High Concentration
+56,Recreational Therapists (29-1125),1.85,High Concentration
+57,"Eligibility Interviewers, Government Programs (43-4061)",1.83,High Concentration
+58,"Entertainment and Recreation Managers, Except Gambling (11-9072)",1.79,High Concentration
+59,Food Science Technicians (19-4013),1.78,High Concentration
+60,"Gambling Service Workers, All Other (39-3019)",1.76,High Concentration
+61,"Plant and System Operators, All Other (51-8099)",1.76,High Concentration
+62,Sociologists (19-3041),1.75,High Concentration
+63,Psychiatrists (29-1223),1.73,High Concentration
+64,Forest and Conservation Technicians (19-4071),1.71,High Concentration
+65,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic (51-4023)",1.71,High Concentration
+66,"Healthcare Support Workers, All Other (31-9099)",1.69,High Concentration
+67,"Molders, Shapers, and Casters, Except Metal and Plastic (51-9195)",1.68,High Concentration
+68,Dietetic Technicians (29-2051),1.68,High Concentration
+69,"Coin, Vending, and Amusement Machine Servicers and Repairers (49-9091)",1.68,High Concentration
+70,Cargo and Freight Agents (43-5011),1.68,High Concentration
+71,"Helpers, Construction Trades, All Other (47-3019)",1.67,High Concentration
+72,Electrical and Electronics Drafters (17-3012),1.66,High Concentration
+73,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders (51-9192)",1.66,High Concentration
+74,Forest and Conservation Workers (45-4011),1.62,High Concentration
+75,Court Reporters and Simultaneous Captioners (27-3092),1.61,High Concentration
+76,Stationary Engineers and Boiler Operators (51-8021),1.6,High Concentration
+77,Roofers (47-2181),1.58,High Concentration
+78,Pharmacy Aides (31-9095),1.56,High Concentration
+79,Carpet Installers (47-2041),1.54,High Concentration
+80,Security Guards (33-9032),1.54,High Concentration
+81,Food Service Managers (11-9051),1.53,High Concentration
+82,"First-Line Supervisors of Transportation Workers, Except Aircraft Cargo Handling Supervisors (53-1047)",1.52,High Concentration
+83,Dental Assistants (31-9091),1.51,High Concentration
+84,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic (51-4021)",1.51,High Concentration
+85,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse (45-2092)",1.48,Above Average
+86,Respiratory Therapists (29-1126),1.47,Above Average
+87,Counter and Rental Clerks (41-2021),1.46,Above Average
+88,"Installation, Maintenance, and Repair Workers, All Other (49-9099)",1.46,Above Average
+89,Dishwashers (35-9021),1.45,Above Average
+90,"Painters, Construction and Maintenance (47-2141)",1.44,Above Average
+91,Agricultural Inspectors (45-2011),1.44,Above Average
+92,Mechanical Door Repairers (49-9011),1.43,Above Average
+93,"Environmental Science and Protection Technicians, Including Health (19-4042)",1.42,Above Average
+94,"Mobile Heavy Equipment Mechanics, Except Engines (49-3042)",1.42,Above Average
+95,Tree Trimmers and Pruners (37-3013),1.41,Above Average
+96,Glaziers (47-2121),1.41,Above Average
+97,"Cooks, Short Order (35-2015)",1.41,Above Average
+98,"Pressers, Textile, Garment, and Related Materials (51-6021)",1.4,Above Average
+99,"Teaching Assistants, Except Postsecondary (25-9045)",1.4,Above Average
+100,Animal Control Workers (33-9011),1.4,Above Average
+101,"Recreation and Fitness Studies Teachers, Postsecondary (25-1193)",1.38,Above Average
+102,Order Clerks (43-4151),1.38,Above Average
+103,"Helpers--Installation, Maintenance, and Repair Workers (49-9098)",1.38,Above Average
+104,Stockers and Order Fillers (53-7065),1.37,Above Average
+105,Library Technicians (25-4031),1.37,Above Average
+106,"Teachers and Instructors, All Other (25-3099)",1.36,Above Average
+107,Physical Therapist Aides (31-2022),1.36,Above Average
+108,Butchers and Meat Cutters (51-3021),1.36,Above Average
+109,Forensic Science Technicians (19-4092),1.35,Above Average
+110,Electrical Power-Line Installers and Repairers (49-9051),1.34,Above Average
+111,"Production Workers, All Other (51-9199)",1.34,Above Average
+112,Pest Control Workers (37-2021),1.34,Above Average
+113,Power Distributors and Dispatchers (51-8012),1.33,Above Average
+114,Bus and Truck Mechanics and Diesel Engine Specialists (49-3031),1.32,Above Average
+115,"Earth Drillers, Except Oil and Gas (47-5023)",1.31,Above Average
+116,"Health Technologists and Technicians, All Other (29-2099)",1.31,Above Average
+117,"Geography Teachers, Postsecondary (25-1064)",1.31,Above Average
+118,Animal Trainers (39-2011),1.31,Above Average
+119,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers (37-1012)",1.31,Above Average
+120,"Library Science Teachers, Postsecondary (25-1082)",1.3,Above Average
+121,"Human Resources Assistants, Except Payroll and Timekeeping (43-4161)",1.3,Above Average
+122,Motorcycle Mechanics (49-3052),1.3,Above Average
+123,"Education Administrators, All Other (11-9039)",1.3,Above Average
+124,Merchandise Displayers and Window Trimmers (27-1026),1.29,Above Average
+125,"Radio, Cellular, and Tower Equipment Installers and Repairers (49-2021)",1.28,Above Average
+126,Stonemasons (47-2022),1.28,Above Average
+127,Light Truck Drivers (53-3033),1.28,Above Average
+128,"Interviewers, Except Eligibility and Loan (43-4111)",1.28,Above Average
+129,Orderlies (31-1132),1.28,Above Average
+130,Massage Therapists (31-9011),1.28,Above Average
+131,Landscaping and Groundskeeping Workers (37-3011),1.28,Above Average
+132,Medical Assistants (31-9092),1.28,Above Average
+133,Skincare Specialists (39-5094),1.28,Above Average
+134,"Designers, All Other (27-1029)",1.27,Above Average
+135,"Switchboard Operators, Including Answering Service (43-2011)",1.27,Above Average
+136,Dining Room and Cafeteria Attendants and Bartender Helpers (35-9011),1.27,Above Average
+137,Upholsterers (51-6093),1.27,Above Average
+138,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic (51-4034)",1.26,Above Average
+139,"Child, Family, and School Social Workers (21-1021)",1.25,Above Average
+140,Fast Food and Counter Workers (35-3023),1.24,Above Average
+141,First-Line Supervisors of Security Workers (33-1091),1.24,Above Average
+142,"Arbitrators, Mediators, and Conciliators (23-1022)",1.24,Above Average
+143,First-Line Supervisors of Food Preparation and Serving Workers (35-1012),1.23,Above Average
+144,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers (49-9021)",1.23,Above Average
+145,Probation Officers and Correctional Treatment Specialists (21-1092),1.22,Above Average
+146,Licensed Practical and Licensed Vocational Nurses (29-2061),1.22,Above Average
+147,Photographic Process Workers and Processing Machine Operators (51-9151),1.22,Above Average
+148,Correctional Officers and Jailers (33-3012),1.22,Above Average
+149,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders (51-9041)",1.21,Above Average
+150,Continuous Mining Machine Operators (47-5041),1.21,Above Average
+151,Parts Salespersons (41-2022),1.21,Above Average
+152,Urban and Regional Planners (19-3051),1.2,Above Average
+153,Optometrists (29-1041),1.2,Above Average
+154,Helpers--Production Workers (51-9198),1.19,Above Average
+155,Food Cooking Machine Operators and Tenders (51-3093),1.19,Above Average
+156,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders (51-9021)",1.19,Above Average
+157,"Elementary School Teachers, Except Special Education (25-2021)",1.19,Above Average
+158,Cleaners of Vehicles and Equipment (53-7061),1.19,Above Average
+159,"Information and Record Clerks, All Other (43-4199)",1.18,Above Average
+160,Detectives and Criminal Investigators (33-3021),1.18,Above Average
+161,Real Estate Sales Agents (41-9022),1.18,Above Average
+162,Hydrologic Technicians (19-4044),1.18,Above Average
+163,Septic Tank Servicers and Sewer Pipe Cleaners (47-4071),1.18,Above Average
+164,Medical Secretaries and Administrative Assistants (43-6013),1.18,Above Average
+165,"Production, Planning, and Expediting Clerks (43-5061)",1.17,Above Average
+166,Private Detectives and Investigators (33-9021),1.17,Above Average
+167,"Drafters, All Other (17-3019)",1.16,Above Average
+168,Choreographers (27-2032),1.15,Above Average
+169,"Community and Social Service Specialists, All Other (21-1099)",1.14,Above Average
+170,Water and Wastewater Treatment Plant and System Operators (51-8031),1.14,Above Average
+171,Cabinetmakers and Bench Carpenters (51-7011),1.14,Above Average
+172,Tire Repairers and Changers (49-3093),1.14,Above Average
+173,School Psychologists (19-3034),1.13,Above Average
+174,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services (39-1014)",1.13,Above Average
+175,"First-Line Supervisors of Farming, Fishing, and Forestry Workers (45-1011)",1.12,Above Average
+176,Bicycle Repairers (49-3091),1.12,Above Average
+177,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic (51-4072)",1.12,Above Average
+178,Cashiers (41-2011),1.12,Above Average
+179,Bakers (51-3011),1.12,Above Average
+180,Chefs and Head Cooks (35-1011),1.12,Above Average
+181,"Dispatchers, Except Police, Fire, and Ambulance (43-5032)",1.11,Above Average
+182,"Electric Motor, Power Tool, and Related Repairers (49-2092)",1.11,Above Average
+183,Orthotists and Prosthetists (29-2091),1.11,Above Average
+184,Fire Inspectors and Investigators (33-2021),1.1,Above Average
+185,Sales Managers (11-2022),1.1,Above Average
+186,Automotive and Watercraft Service Attendants (53-6031),1.1,Above Average
+187,Traffic Technicians (53-6041),1.1,Above Average
+188,"Painting, Coating, and Decorating Workers (51-9123)",1.09,Above Average
+189,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay (49-2095)",1.09,Above Average
+190,"Tailors, Dressmakers, and Custom Sewers (51-6052)",1.08,Above Average
+191,Social and Human Service Assistants (21-1093),1.08,Above Average
+192,Amusement and Recreation Attendants (39-3091),1.08,Above Average
+193,Civil Engineering Technologists and Technicians (17-3022),1.08,Above Average
+194,"Secondary School Teachers, Except Special and Career/Technical Education (25-2031)",1.08,Above Average
+195,Recreation Workers (39-9032),1.07,Above Average
+196,Landscape Architects (17-1012),1.07,Above Average
+197,Maids and Housekeeping Cleaners (37-2012),1.07,Above Average
+198,"Substance abuse, behavioral disorder, and mental health counselors (21-1018)",1.07,Above Average
+199,Recreational Vehicle Service Technicians (49-3092),1.07,Above Average
+200,Mental Health and Substance Abuse Social Workers (21-1023),1.07,Above Average
+201,Cost Estimators (13-1051),1.06,Above Average
+202,"Control and Valve Installers and Repairers, Except Mechanical Door (49-9012)",1.06,Above Average
+203,Crematory Operators (39-4012),1.06,Above Average
+204,"Grinding/Lapping/Polishing/Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic (51-4033)",1.06,Above Average
+205,"Opticians, Dispensing (29-2081)",1.06,Above Average
+206,First-Line Supervisors of Correctional Officers (33-1011),1.06,Above Average
+207,Pharmacists (29-1051),1.05,Above Average
+208,"Umpires, Referees, and Other Sports Officials (27-2023)",1.05,Above Average
+209,Procurement Clerks (43-3061),1.04,Above Average
+210,Facilities Managers (11-3013),1.04,Above Average
+211,"First-Line Supervisors of Protective Service Workers, All Other (33-1099)",1.04,Above Average
+212,Community Health Workers (21-1094),1.04,Above Average
+213,Etchers and Engravers (51-9194),1.04,Above Average
+214,Medical Equipment Preparers (31-9093),1.04,Above Average
+215,Social and Community Service Managers (11-9151),1.03,Above Average
+216,File Clerks (43-4071),1.03,Above Average
+217,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic (51-4193)",1.03,Above Average
+218,"Criminal Justice and Law Enforcement Teachers, Postsecondary (25-1111)",1.02,Above Average
+219,Health Education Specialists (21-1091),1.02,Above Average
+220,Food Scientists and Technologists (19-1012),1.02,Above Average
+221,"Cooks, Restaurant (35-2014)",1.02,Above Average
+222,Baggage Porters and Bellhops (39-6011),1.02,Above Average
+223,Locksmiths and Safe Repairers (49-9094),1.02,Above Average
+224,"Directors, Religious Activities and Education (21-2021)",1.02,Above Average
+225,"Dentists, General (29-1021)",1.02,Above Average
+226,Construction Laborers (47-2061),1.02,Above Average
+227,"Educational, Guidance, and Career Counselors and Advisors (21-1012)",1.01,Above Average
+228,Construction Managers (11-9021),1.01,Above Average
+229,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic (51-4035)",1.0,Below Average
+230,"Electrical and Electronics Repairers, Commercial and Industrial Equipment (49-2094)",0.99,Below Average
+231,"Ushers, Lobby Attendants, and Ticket Takers (39-3031)",0.99,Below Average
+232,Driver/Sales Workers (53-3031),0.99,Below Average
+233,Cartographers and Photogrammetrists (17-1021),0.99,Below Average
+234,"Office and Administrative Support Workers, All Other (43-9199)",0.98,Below Average
+235,"Morticians, Undertakers, and Funeral Arrangers (39-4031)",0.98,Below Average
+236,First-Line Supervisors of Construction Trades and Extraction Workers (47-1011),0.98,Below Average
+237,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors (17-2111)",0.98,Below Average
+238,Payroll and Timekeeping Clerks (43-3051),0.98,Below Average
+239,"Education Administrators, Kindergarten through Secondary (11-9032)",0.98,Below Average
+240,Automotive Service Technicians and Mechanics (49-3023),0.98,Below Average
+241,Registered Nurses (29-1141),0.96,Below Average
+242,Outdoor Power Equipment and Other Small Engine Mechanics (49-3053),0.95,Below Average
+243,Floral Designers (27-1023),0.95,Below Average
+244,"Psychology Teachers, Postsecondary (25-1066)",0.95,Below Average
+245,Commercial and Industrial Designers (27-1021),0.95,Below Average
+246,Clinical and Counseling Psychologists (19-3033),0.95,Below Average
+247,Rehabilitation Counselors (21-1015),0.94,Below Average
+248,Telecommunications Line Installers and Repairers (49-9052),0.94,Below Average
+249,"Special Education Teachers, Secondary School (25-2058)",0.94,Below Average
+250,"Property, Real Estate, and Community Association Managers (11-9141)",0.94,Below Average
+251,"Office Clerks, General (43-9061)",0.94,Below Average
+252,Audiovisual Equipment Installers and Repairers (49-2097),0.93,Below Average
+253,First-Line Supervisors of Retail Sales Workers (41-1011),0.93,Below Average
+254,"Farmers, Ranchers, and Other Agricultural Managers (11-9013)",0.93,Below Average
+255,Electricians (47-2111),0.93,Below Average
+256,Civil Engineers (17-2051),0.93,Below Average
+257,Operating Engineers and Other Construction Equipment Operators (47-2073),0.92,Below Average
+258,Dietitians and Nutritionists (29-1031),0.92,Below Average
+259,"Communications Teachers, Postsecondary (25-1122)",0.92,Below Average
+260,Transportation Inspectors (53-6051),0.92,Below Average
+261,Speech-Language Pathologists (29-1127),0.92,Below Average
+262,"Social Sciences Teachers, Postsecondary, All Other (25-1069)",0.92,Below Average
+263,Interpreters and Translators (27-3091),0.92,Below Average
+264,Administrative Services Managers (11-3012),0.91,Below Average
+265,"Library Assistants, Clerical (43-4121)",0.91,Below Average
+266,Food Preparation Workers (35-2021),0.91,Below Average
+267,"Court, Municipal, and License Clerks (43-4031)",0.91,Below Average
+268,Packaging and Filling Machine Operators and Tenders (51-9111),0.91,Below Average
+269,Retail Salespersons (41-2031),0.91,Below Average
+270,Phlebotomists (31-9097),0.9,Below Average
+271,"Plumbers, Pipefitters, and Steamfitters (47-2152)",0.9,Below Average
+272,"Personal Care and Service Workers, All Other (39-9099)",0.9,Below Average
+273,First-Line Supervisors of Office and Administrative Support Workers (43-1011),0.9,Below Average
+274,"Business Operations Specialists, All Other (13-1199)",0.9,Below Average
+275,"Special Education Teachers, Kindergarten and Elementary School (25-2052)",0.9,Below Average
+276,Pharmacy Technicians (29-2052),0.9,Below Average
+277,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop (35-9031)",0.89,Below Average
+278,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products (41-4012)",0.89,Below Average
+279,"Hotel, Motel, and Resort Desk Clerks (43-4081)",0.89,Below Average
+280,Diagnostic Medical Sonographers (29-2032),0.89,Below Average
+281,Avionics Technicians (49-2091),0.89,Below Average
+282,Computer Numerically Controlled Tool Operators (51-9161),0.89,Below Average
+283,Computer Numerically Controlled Tool Programmers (51-9162),0.89,Below Average
+284,Surgical Technologists (29-2055),0.89,Below Average
+285,Chief Executives (11-1011),0.89,Below Average
+286,"Motor Vehicle Operators, All Other (53-3099)",0.88,Below Average
+287,Automotive Body and Related Repairers (49-3021),0.88,Below Average
+288,"Inspectors, Testers, Sorters, Samplers, and Weighers (51-9061)",0.88,Below Average
+289,Postal Service Mail Carriers (43-5052),0.88,Below Average
+290,Couriers and Messengers (43-5021),0.88,Below Average
+291,Lodging Managers (11-9081),0.88,Below Average
+292,Construction and Building Inspectors (47-4011),0.88,Below Average
+293,Emergency Medical Technicians (29-2042),0.87,Below Average
+294,"Telecommunications Equipment Installers and Repairers, Except Line Installers (49-2022)",0.86,Below Average
+295,Exercise Trainers and Group Fitness Instructors (39-9031),0.86,Below Average
+296,Photographers (27-4021),0.86,Below Average
+297,Self-Enrichment Teachers (25-3021),0.86,Below Average
+298,Transportation Security Screeners (33-9093),0.85,Below Average
+299,Training and Development Specialists (13-1151),0.85,Below Average
+300,Waiters and Waitresses (35-3031),0.85,Below Average
+301,Crossing Guards and Flaggers (33-9091),0.85,Below Average
+302,Psychiatric Aides (31-1133),0.85,Below Average
+303,Home Appliance Repairers (49-9031),0.85,Below Average
+304,Medical and Health Services Managers (11-9111),0.85,Below Average
+305,Industrial Production Managers (11-3051),0.85,Below Average
+306,Laundry and Dry-Cleaning Workers (51-6011),0.85,Below Average
+307,Parking Enforcement Workers (33-3041),0.84,Below Average
+308,"Bus Drivers, Transit and Intercity (53-3052)",0.84,Below Average
+309,Veterinary Assistants and Laboratory Animal Caretakers (31-9096),0.84,Below Average
+310,"Textile, Apparel, and Furnishings Workers, All Other (51-6099)",0.84,Below Average
+311,"Maintenance and Repair Workers, General (49-9071)",0.84,Below Average
+312,"First-Line Supervisors of Mechanics, Installers, and Repairers (49-1011)",0.84,Below Average
+313,Nuclear Medicine Technologists (29-2033),0.83,Below Average
+314,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners (37-2011)",0.83,Below Average
+315,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders (51-9012)",0.83,Below Average
+316,"Nursing Instructors and Teachers, Postsecondary (25-1072)",0.82,Below Average
+317,Coaches and Scouts (27-2022),0.82,Below Average
+318,"Environmental Scientists and Specialists, Including Health (19-2041)",0.82,Below Average
+319,"Bookkeeping, Accounting, and Auditing Clerks (43-3031)",0.82,Below Average
+320,Hazardous Materials Removal Workers (47-4041),0.82,Below Average
+321,Data Entry Keyers (43-9021),0.82,Below Average
+322,Aircraft Mechanics and Service Technicians (49-3011),0.81,Below Average
+323,"Special Education Teachers, Middle School (25-2057)",0.81,Below Average
+324,Police and Sheriff's Patrol Officers (33-3051),0.81,Below Average
+325,"Computer, Automated Teller, and Office Machine Repairers (49-2011)",0.8,Below Average
+326,Healthcare Social Workers (21-1022),0.8,Below Average
+327,"Textile Cutting Machine Setters, Operators, and Tenders (51-6062)",0.8,Below Average
+328,"Welders, Cutters, Solderers, and Brazers (51-4121)",0.79,Below Average
+329,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary (25-1051)",0.79,Below Average
+330,Radiologic Technologists and Technicians (29-2034),0.79,Below Average
+331,Logisticians (13-1081),0.79,Below Average
+332,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers (33-9092)",0.79,Below Average
+333,Brickmasons and Blockmasons (47-2021),0.78,Below Average
+334,Compliance Officers (13-1041),0.78,Below Average
+335,Physical Therapists (29-1123),0.78,Below Average
+336,First-Line Supervisors of Personal Service Workers (39-1022),0.78,Below Average
+337,Security and Fire Alarm Systems Installers (49-2098),0.78,Below Average
+338,"Pesticide Handlers, Sprayers, and Applicators, Vegetation (37-3012)",0.77,Below Average
+339,Pipelayers (47-2151),0.77,Below Average
+340,Podiatrists (29-1081),0.77,Below Average
+341,"Graders and Sorters, Agricultural Products (45-2041)",0.77,Below Average
+342,Public Safety Telecommunicators (43-5031),0.77,Below Average
+343,Legal Secretaries and Administrative Assistants (43-6012),0.77,Below Average
+344,Bartenders (35-3011),0.76,Below Average
+345,Mechanical Drafters (17-3013),0.76,Below Average
+346,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing (51-7042)",0.76,Below Average
+347,"Maintenance Workers, Machinery (49-9043)",0.76,Below Average
+348,Passenger Attendants (53-6061),0.76,Below Average
+349,"Middle School Teachers, Except Special and Career/Technical Education (25-2022)",0.75,Below Average
+350,Legislators (11-1031),0.75,Below Average
+351,First-Line Supervisors of Police and Detectives (33-1012),0.75,Below Average
+352,Athletic Trainers (29-9091),0.75,Below Average
+353,"Farmworkers, Farm, Ranch, and Aquacultural Animals (45-2093)",0.75,Below Average
+354,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders (51-9124)",0.75,Below Average
+355,Magnetic Resonance Imaging Technologists (29-2035),0.74,Below Average
+356,"Insulation Workers, Floor, Ceiling, and Wall (47-2131)",0.74,Below Average
+357,Costume Attendants (39-3092),0.74,Below Average
+358,"Food Processing Workers, All Other (51-3099)",0.74,Below Average
+359,Firefighters (33-2011),0.74,Below Average
+360,Miscellaneous Assemblers and Fabricators (51-2090),0.74,Below Average
+361,First-Line Supervisors of Housekeeping and Janitorial Workers (37-1011),0.74,Below Average
+362,Shuttle Drivers and Chauffeurs (53-3053),0.74,Below Average
+363,Veterinarians (29-1131),0.74,Below Average
+364,Archivists (25-4011),0.73,Below Average
+365,Prepress Technicians and Workers (51-5111),0.73,Below Average
+366,Clergy (21-2011),0.73,Below Average
+367,Hydrologists (19-2043),0.73,Below Average
+368,Animal Caretakers (39-2021),0.73,Below Average
+369,"Food Servers, Nonrestaurant (35-3041)",0.73,Below Average
+370,"Postal Service Mail Sorters, Processors, and Processing Machine Operators (43-5053)",0.71,Below Average
+371,Power Plant Operators (51-8013),0.71,Below Average
+372,First-Line Supervisors of Production and Operating Workers (51-1011),0.71,Below Average
+373,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive (43-6014)",0.71,Below Average
+374,Billing and Posting Clerks (43-3021),0.71,Below Average
+375,Airfield Operations Specialists (53-2022),0.71,Below Average
+376,"Meeting, Convention, and Event Planners (13-1121)",0.71,Below Average
+377,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic (51-4191)",0.71,Below Average
+378,"Paving, Surfacing, and Tamping Equipment Operators (47-2071)",0.71,Below Average
+379,"Engineers, All Other (17-2199)",0.7,Below Average
+380,Childcare Workers (39-9011),0.7,Below Average
+381,"Preschool Teachers, Except Special Education (25-2011)",0.7,Below Average
+382,Dental Laboratory Technicians (51-9081),0.7,Below Average
+383,"Layout Workers, Metal and Plastic (51-4192)",0.69,Below Average
+384,Surveyors (17-1022),0.69,Below Average
+385,Human Resources Specialists (13-1071),0.69,Below Average
+386,Property Appraisers and Assessors (13-2020),0.69,Below Average
+387,Architectural and Civil Drafters (17-3011),0.69,Below Average
+388,Sewing Machine Operators (51-6031),0.68,Below Average
+389,Postal Service Clerks (43-5051),0.68,Below Average
+390,Musicians and Singers (27-2042),0.68,Below Average
+391,Buyers and Purchasing Agents (13-1020),0.68,Below Average
+392,Training and Development Managers (11-3131),0.68,Below Average
+393,Physician Assistants (29-1071),0.68,Below Average
+394,"Tool Grinders, Filers, and Sharpeners (51-4194)",0.68,Below Average
+395,Chemical Engineers (17-2041),0.68,Below Average
+396,Executive Secretaries and Executive Administrative Assistants (43-6011),0.68,Below Average
+397,"English Language and Literature Teachers, Postsecondary (25-1123)",0.68,Below Average
+398,Helpers--Carpenters (47-3012),0.67,Below Average
+399,"Cutting and Slicing Machine Setters, Operators, and Tenders (51-9032)",0.67,Below Average
+400,Medical Equipment Repairers (49-9062),0.67,Below Average
+401,Calibration Technologists and Technicians (17-3028),0.66,Below Average
+402,"Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers (51-2028)",0.66,Below Average
+403,"Career/Technical Education Teachers, Postsecondary (25-1194)",0.66,Below Average
+404,Labor Relations Specialists (13-1075),0.66,Below Average
+405,Fundraising Managers (11-2033),0.66,Below Average
+406,Adhesive Bonding Machine Operators and Tenders (51-9191),0.66,Below Average
+407,Lighting Technicians (27-4015),0.65,Below Average
+408,Epidemiologists (19-1041),0.65,Below Average
+409,"Art, Drama, and Music Teachers, Postsecondary (25-1121)",0.65,Below Average
+410,Veterinary Technologists and Technicians (29-2056),0.65,Below Average
+411,Medical Records Specialists (29-2072),0.65,Below Average
+412,"Sawing Machine Setters, Operators, and Tenders, Wood (51-7041)",0.65,Below Average
+413,Paralegals and Legal Assistants (23-2011),0.65,Below Average
+414,"Bus Drivers, School (53-3051)",0.65,Below Average
+415,Tax Preparers (13-2082),0.64,Below Average
+416,"Meter Readers, Utilities (43-5041)",0.64,Below Average
+417,Tellers (43-3071),0.64,Below Average
+418,"Financial Specialists, All Other (13-2099)",0.64,Below Average
+419,Refuse and Recyclable Material Collectors (53-7081),0.64,Below Average
+420,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic (51-4032)",0.64,Below Average
+421,Web and Digital Interface Designers (15-1255),0.64,Below Average
+422,"Paper Goods Machine Setters, Operators, and Tenders (51-9196)",0.63,Below Average
+423,Printing Press Operators (51-5112),0.63,Below Average
+424,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel (41-3091)",0.63,Below Average
+425,"Architecture Teachers, Postsecondary (25-1031)",0.63,Below Average
+426,Tour and Travel Guides (39-7010),0.63,Below Average
+427,Chemical Technicians (19-4031),0.63,Below Average
+428,"Psychologists, All Other (19-3039)",0.63,Below Average
+429,"Healthcare Practitioners and Technical Workers, All Other (29-9099)",0.63,Below Average
+430,Surveying and Mapping Technicians (17-3031),0.63,Below Average
+431,First-Line Supervisors of Non-Retail Sales Workers (41-1012),0.63,Below Average
+432,Cardiovascular Technologists and Technicians (29-2031),0.62,Below Average
+433,"Anthropology and Archeology Teachers, Postsecondary (25-1061)",0.62,Below Average
+434,"Social Scientists and Related Workers, All Other (19-3099)",0.62,Below Average
+435,"Mixing and Blending Machine Setters, Operators, and Tenders (51-9023)",0.62,Below Average
+436,Insurance Sales Agents (41-3021),0.62,Below Average
+437,Environmental Engineering Technologists and Technicians (17-3025),0.62,Below Average
+438,Concierges (39-6012),0.61,Below Average
+439,Aircraft Service Attendants (53-6032),0.61,Below Average
+440,Nurse Midwives (29-1161),0.61,Below Average
+441,Industrial Machinery Mechanics (49-9041),0.61,Below Average
+442,Purchasing Managers (11-3061),0.61,Below Average
+443,Medical Appliance Technicians (51-9082),0.61,Below Average
+444,Human Resources Managers (11-3121),0.61,Below Average
+445,Physical Therapist Assistants (31-2021),0.61,Below Average
+446,Project Management Specialists (13-1082),0.61,Below Average
+447,"Engineering Technologists and Technicians, Except Drafters, All Other (17-3029)",0.6,Below Average
+448,Insurance Claims and Policy Processing Clerks (43-9041),0.6,Below Average
+449,Machinists (51-4041),0.6,Below Average
+450,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic (51-4031)",0.6,Below Average
+451,Radiation Therapists (29-1124),0.6,Below Average
+452,Art Directors (27-1011),0.6,Below Average
+453,"Physics Teachers, Postsecondary (25-1054)",0.6,Below Average
+454,"Cutters and Trimmers, Hand (51-9031)",0.6,Below Average
+455,Environmental Engineers (17-2081),0.59,Below Average
+456,Foundry Mold and Coremakers (51-4071),0.59,Below Average
+457,Psychiatric Technicians (29-2053),0.59,Below Average
+458,Dental Hygienists (29-1292),0.59,Below Average
+459,"Social Workers, All Other (21-1029)",0.59,Below Average
+460,Nursing Assistants (31-1131),0.59,Below Average
+461,Bill and Account Collectors (43-3011),0.59,Below Average
+462,Fashion Designers (27-1022),0.59,Below Average
+463,"Mathematical Science Teachers, Postsecondary (25-1022)",0.59,Below Average
+464,"Religious Workers, All Other (21-2099)",0.59,Below Average
+465,Management Analysts (13-1111),0.59,Below Average
+466,"Title Examiners, Abstractors, and Searchers (23-2093)",0.59,Below Average
+467,"Artists and Related Workers, All Other (27-1019)",0.59,Below Average
+468,Anthropologists and Archeologists (19-3091),0.59,Below Average
+469,Receptionists and Information Clerks (43-4171),0.59,Below Average
+470,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians (53-3011)",0.58,Below Average
+471,Sheet Metal Workers (47-2211),0.58,Below Average
+472,Structural Metal Fabricators and Fitters (51-2041),0.58,Below Average
+473,Audio and Video Technicians (27-4011),0.58,Below Average
+474,Air Traffic Controllers (53-2021),0.58,Below Average
+475,"Medical Scientists, Except Epidemiologists (19-1042)",0.58,Below Average
+476,"Managers, All Other (11-9199)",0.57,Below Average
+477,Accountants and Auditors (13-2011),0.57,Below Average
+478,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic (51-4022)",0.57,Below Average
+479,"Chemistry Teachers, Postsecondary (25-1052)",0.57,Below Average
+480,General and Operations Managers (11-1021),0.57,Below Average
+481,Paramedics (29-2043),0.57,Below Average
+482,Ophthalmic Medical Technicians (29-2057),0.57,Below Average
+483,"Geoscientists, Except Hydrologists and Geographers (19-2042)",0.57,Below Average
+484,Electrical and Electronic Engineering Technologists and Technicians (17-3023),0.57,Below Average
+485,Parking Attendants (53-6021),0.56,Below Average
+486,First-Line Supervisors of Firefighting and Prevention Workers (33-1021),0.56,Below Average
+487,"Compensation, Benefits, and Job Analysis Specialists (13-1141)",0.56,Below Average
+488,Furniture Finishers (51-7021),0.56,Below Average
+489,"Office Machine Operators, Except Computer (43-9071)",0.56,Below Average
+490,Graphic Designers (27-1024),0.56,Below Average
+491,Fiberglass Laminators and Fabricators (51-2051),0.55,Below Average
+492,Customer Service Representatives (43-4051),0.55,Below Average
+493,Postmasters and Mail Superintendents (11-9131),0.55,Below Average
+494,Compensation and Benefits Managers (11-3111),0.55,Below Average
+495,"Hairdressers, Hairstylists, and Cosmetologists (39-5012)",0.55,Below Average
+496,"Electronics Engineers, Except Computer (17-2072)",0.55,Below Average
+497,"Education and Childcare Administrators, Preschool and Daycare (11-9031)",0.55,Below Average
+498,"History Teachers, Postsecondary (25-1125)",0.55,Below Average
+499,General Internal Medicine Physicians (29-1216),0.55,Below Average
+500,"Foreign Language and Literature Teachers, Postsecondary (25-1124)",0.55,Below Average
+501,Models (41-9012),0.55,Below Average
+502,Instructional Coordinators (25-9031),0.54,Below Average
+503,"Physicians, All Other (29-1229)",0.54,Below Average
+504,Agricultural Technicians (19-4012),0.54,Below Average
+505,"Tax Examiners and Collectors, and Revenue Agents (13-2081)",0.54,Below Average
+506,Budget Analysts (13-2031),0.53,Below Average
+507,Millwrights (49-9044),0.53,Below Average
+508,Market Research Analysts and Marketing Specialists (13-1161),0.53,Below Average
+509,"Teaching Assistants, Postsecondary (25-9044)",0.52,Below Average
+510,"Media and Communication Workers, All Other (27-3099)",0.52,Below Average
+511,"Philosophy and Religion Teachers, Postsecondary (25-1126)",0.52,Below Average
+512,Emergency Management Directors (11-9161),0.52,Below Average
+513,Bioengineers and Biomedical Engineers (17-2031),0.52,Below Average
+514,Farm Equipment Mechanics and Service Technicians (49-3041),0.51,Below Average
+515,Architectural and Engineering Managers (11-9041),0.51,Below Average
+516,Loan Officers (13-2072),0.51,Below Average
+517,"Credit Authorizers, Checkers, and Clerks (43-4041)",0.5,Low Concentration
+518,Database Administrators (15-1242),0.5,Low Concentration
+519,Librarians and Media Collections Specialists (25-4022),0.5,Low Concentration
+520,Writers and Authors (27-3043),0.5,Low Concentration
+521,"Surgeons, All Other (29-1249)",0.5,Low Concentration
+522,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders (51-4122)",0.5,Low Concentration
+523,Motorboat Mechanics and Service Technicians (49-3051),0.49,Low Concentration
+524,"Sociology Teachers, Postsecondary (25-1067)",0.49,Low Concentration
+525,Financial Managers (11-3031),0.49,Low Concentration
+526,Rail-Track Laying and Maintenance Equipment Operators (47-4061),0.49,Low Concentration
+527,Audiologists (29-1181),0.48,Low Concentration
+528,Producers and Directors (27-2012),0.48,Low Concentration
+529,Nurse Practitioners (29-1171),0.48,Low Concentration
+530,Nurse Anesthetists (29-1151),0.48,Low Concentration
+531,"Cooks, Institution and Cafeteria (35-2012)",0.48,Low Concentration
+532,Film and Video Editors (27-4032),0.48,Low Concentration
+533,"Camera Operators, Television, Video, and Film (27-4031)",0.48,Low Concentration
+534,Food Batchmakers (51-3092),0.48,Low Concentration
+535,"Securities, Commodities, and Financial Services Sales Agents (41-3031)",0.48,Low Concentration
+536,Computer User Support Specialists (15-1232),0.48,Low Concentration
+537,Network and Computer Systems Administrators (15-1244),0.47,Low Concentration
+538,Museum Technicians and Conservators (25-4013),0.47,Low Concentration
+539,Commercial Pilots (53-2012),0.47,Low Concentration
+540,"Computer Science Teachers, Postsecondary (25-1021)",0.47,Low Concentration
+541,Marketing Managers (11-2021),0.47,Low Concentration
+542,Credit Counselors (13-2071),0.46,Low Concentration
+543,Mechanical Engineers (17-2141),0.46,Low Concentration
+544,"Claims Adjusters, Examiners, and Investigators (13-1031)",0.45,Low Concentration
+545,"Business Teachers, Postsecondary (25-1011)",0.45,Low Concentration
+546,Statisticians (15-2041),0.45,Low Concentration
+547,Reservation and Transportation Ticket Agents and Travel Clerks (43-4181),0.45,Low Concentration
+548,Soil and Plant Scientists (19-1013),0.45,Low Concentration
+549,"Mail Clerks and Mail Machine Operators, Except Postal Service (43-9051)",0.44,Low Concentration
+550,Electrical Engineers (17-2071),0.44,Low Concentration
+551,Interior Designers (27-1025),0.44,Low Concentration
+552,Chemists (19-2031),0.44,Low Concentration
+553,Sound Engineering Technicians (27-4014),0.44,Low Concentration
+554,"Therapists, All Other (29-1129)",0.44,Low Concentration
+555,Computer Network Support Specialists (15-1231),0.43,Low Concentration
+556,"Biological Science Teachers, Postsecondary (25-1042)",0.43,Low Concentration
+557,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary (25-1062)",0.43,Low Concentration
+558,Curators (25-4012),0.43,Low Concentration
+559,Residential Advisors (39-9041),0.43,Low Concentration
+560,"Legal Support Workers, All Other (23-2099)",0.43,Low Concentration
+561,Loan Interviewers and Clerks (43-4131),0.42,Low Concentration
+562,Mechanical Engineering Technologists and Technicians (17-3027),0.42,Low Concentration
+563,Public Relations Specialists (27-3031),0.41,Low Concentration
+564,Jewelers and Precious Stone and Metal Workers (51-9071),0.41,Low Concentration
+565,Public Relations Managers (11-2032),0.41,Low Concentration
+566,Health Information Technologists and Medical Registrars (29-9021),0.41,Low Concentration
+567,Gas Plant Operators (51-8092),0.41,Low Concentration
+568,Web Developers (15-1254),0.41,Low Concentration
+569,Metal-Refining Furnace Operators and Tenders (51-4051),0.4,Low Concentration
+570,Music Directors and Composers (27-2041),0.4,Low Concentration
+571,Computer Systems Analysts (15-1211),0.4,Low Concentration
+572,Computer Hardware Engineers (17-2061),0.4,Low Concentration
+573,"Economics Teachers, Postsecondary (25-1063)",0.4,Low Concentration
+574,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders (51-3091)",0.39,Low Concentration
+575,Fundraisers (13-1131),0.39,Low Concentration
+576,School Bus Monitors (33-9094),0.38,Low Concentration
+577,"Education Administrators, Postsecondary (11-9033)",0.38,Low Concentration
+578,Lawyers (23-1011),0.38,Low Concentration
+579,Funeral Attendants (39-4021),0.38,Low Concentration
+580,Clinical Laboratory Technologists and Technicians (29-2010),0.38,Low Concentration
+581,Economists (19-3011),0.37,Low Concentration
+582,Zoologists and Wildlife Biologists (19-1023),0.37,Low Concentration
+583,Funeral Home Managers (11-9171),0.37,Low Concentration
+584,Highway Maintenance Workers (47-4051),0.37,Low Concentration
+585,Personal Financial Advisors (13-2052),0.37,Low Concentration
+586,Crane and Tower Operators (53-7021),0.36,Low Concentration
+587,"Engineering Teachers, Postsecondary (25-1032)",0.36,Low Concentration
+588,Telemarketers (41-9041),0.36,Low Concentration
+589,"Petroleum Pump System Operators, Refinery Operators, and Gaugers (51-8093)",0.36,Low Concentration
+590,"Meat, Poultry, and Fish Cutters and Trimmers (51-3022)",0.36,Low Concentration
+591,"Biological Scientists, All Other (19-1029)",0.36,Low Concentration
+592,Computer and Information Systems Managers (11-3021),0.35,Low Concentration
+593,Operations Research Analysts (15-2031),0.34,Low Concentration
+594,Computer and Information Research Scientists (15-1221),0.34,Low Concentration
+595,Industrial Engineers (17-2112),0.34,Low Concentration
+596,Miscellaneous Construction and Related Workers (47-4090),0.33,Low Concentration
+597,Advertising and Promotions Managers (11-2011),0.33,Low Concentration
+598,Advertising Sales Agents (41-3011),0.33,Low Concentration
+599,"Architects, Except Landscape and Naval (17-1011)",0.33,Low Concentration
+600,Data Scientists (15-2051),0.33,Low Concentration
+601,Broadcast Announcers and Radio Disc Jockeys (27-3011),0.33,Low Concentration
+602,Materials Engineers (17-2131),0.33,Low Concentration
+603,"Healthcare Diagnosing or Treating Practitioners, All Other (29-1299)",0.32,Low Concentration
+604,"Kindergarten Teachers, Except Special Education (25-2012)",0.32,Low Concentration
+605,"Life, Physical, and Social Science Technicians, All Other (19-4099)",0.32,Low Concentration
+606,"Political Science Teachers, Postsecondary (25-1065)",0.32,Low Concentration
+607,Editors (27-3041),0.31,Low Concentration
+608,Financial and Investment Analysts (13-2051),0.31,Low Concentration
+609,Computer Programmers (15-1251),0.31,Low Concentration
+610,Conservation Scientists (19-1031),0.31,Low Concentration
+611,Travel Agents (41-3041),0.3,Low Concentration
+612,"Education Teachers, Postsecondary (25-1081)",0.3,Low Concentration
+613,Physicists (19-2012),0.3,Low Concentration
+614,Computer Network Architects (15-1241),0.3,Low Concentration
+615,"Coil Winders, Tapers, and Finishers (51-2021)",0.3,Low Concentration
+616,"Financial Clerks, All Other (43-3099)",0.3,Low Concentration
+617,Foresters (19-1032),0.29,Low Concentration
+618,Tool and Die Makers (51-4111),0.29,Low Concentration
+619,Set and Exhibit Designers (27-1027),0.29,Low Concentration
+620,"Excavating and Loading Machine and Dragline Operators, Surface Mining (47-5022)",0.28,Low Concentration
+621,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors (25-3011)",0.28,Low Concentration
+622,Sales Engineers (41-9031),0.28,Low Concentration
+623,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers (51-2011)",0.27,Low Concentration
+624,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic (51-4081)",0.27,Low Concentration
+625,"Airline Pilots, Copilots, and Flight Engineers (53-2011)",0.27,Low Concentration
+626,Industrial Engineering Technologists and Technicians (17-3026),0.26,Low Concentration
+627,Chemical Equipment Operators and Tenders (51-9011),0.26,Low Concentration
+628,Technical Writers (27-3042),0.26,Low Concentration
+629,Broadcast Technicians (27-4012),0.26,Low Concentration
+630,Electro-Mechanical and Mechatronics Technologists and Technicians (17-3024),0.25,Low Concentration
+631,Credit Analysts (13-2041),0.25,Low Concentration
+632,Software Quality Assurance Analysts and Testers (15-1253),0.25,Low Concentration
+633,Athletes and Sports Competitors (27-2021),0.25,Low Concentration
+634,Software Developers (15-1252),0.24,Low Concentration
+635,New Accounts Clerks (43-4141),0.23,Low Concentration
+636,Actors (27-2011),0.23,Low Concentration
+637,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products (41-4011)",0.23,Low Concentration
+638,Database Architects (15-1243),0.22,Low Concentration
+639,Microbiologists (19-1022),0.22,Low Concentration
+640,Natural Sciences Managers (11-9121),0.22,Low Concentration
+641,Insurance Underwriters (13-2053),0.21,Low Concentration
+642,Brokerage Clerks (43-4011),0.19,Low Concentration
+643,"News Analysts, Reporters, and Journalists (27-3023)",0.19,Low Concentration
+644,Special Effects Artists and Animators (27-1014),0.19,Low Concentration
+645,Biological Technicians (19-4021),0.18,Low Concentration
+646,Information Security Analysts (15-1212),0.18,Low Concentration
+647,"Physical Scientists, All Other (19-2099)",0.18,Low Concentration
+648,Ophthalmic Laboratory Technicians (51-9083),0.16,Low Concentration
+649,Aerospace Engineers (17-2011),0.16,Low Concentration
+650,"Health Specialties Teachers, Postsecondary (25-1071)",0.15,Low Concentration
+651,Actuaries (15-2011),0.1,Low Concentration
+652,Financial Examiners (13-2061),0.05,Low Concentration
+653,"Personal Service Managers, All Other (11-9179)",,Low Concentration
+654,Financial Risk Specialists (13-2054),,Low Concentration
+655,"Geological Technicians, Except Hydrologic Technicians (19-4043)",,Low Concentration
+656,"Career/Technical Education Teachers, Secondary School (25-2032)",,Low Concentration
+657,"Entertainers and Performers, Sports and Related Workers, All Other (27-2099)",,Low Concentration
+658,Chiropractors (29-1011),,Low Concentration
+659,"Dentists, All Other Specialists (29-1029)",,Low Concentration
+660,Exercise Physiologists (29-1128),,Low Concentration
+661,Family Medicine Physicians (29-1215),,Low Concentration
+662,"Orthopedic Surgeons, Except Pediatric (29-1242)",,Low Concentration
+663,Medical Transcriptionists (31-9094),,Low Concentration
+664,"Cooks, All Other (35-2019)",,Low Concentration
+665,"Building Cleaning Workers, All Other (37-2019)",,Low Concentration
+666,Real Estate Brokers (41-9021),,Low Concentration
+667,Helpers--Electricians (47-3013),,Low Concentration
+668,"Electrical and Electronics Installers and Repairers, Transportation Equipment (49-2093)",,Low Concentration
+669,"Electronic Equipment Installers and Repairers, Motor Vehicles (49-2096)",,Low Concentration
+670,Riggers (49-9096),,Low Concentration
+671,"Transportation Workers, All Other (53-6099)",,Low Concentration
+672,Machine Feeders and Offbearers (53-7063),,Low Concentration
+673,"Pump Operators, Except Wellhead Pumpers (53-7072)",,Low Concentration
